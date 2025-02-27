@@ -1,0 +1,25 @@
+[project]
+name = "kulasisi-data"
+version = "0.1.0"
+description = "Data for Philippine languages."
+authors = [
+    {name = "Andrian Lloyd Maagma",email = "110181829+andrianllmm@users.noreply.github.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests (>=2.32.3,<3.0.0)",
+    "bs4 (>=0.0.2,<0.0.3)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+package-mode = false
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.4"
+mypy = "^1.15.0"
