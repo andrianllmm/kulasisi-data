@@ -1,0 +1,1998 @@
+{
+  "meta": {
+    "lang": "eng",
+    "translation_lang": "ceb",
+    "date": "2025-03-01",
+    "total_entries": 331,
+    "source_title": "Cebuano Wikivoyage Phrasebook",
+    "source_link": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook"
+  },
+  "entries": [
+    {
+      "phrase": "<dt id=\"mwig\">How are you?</dt>",
+      "translation": "<dd id=\"mwiw\">Kumusta ka? (<i id=\"mwjA\">koo-MOOSS-tah kah?</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwjQ\">Fine, thank you.</dt>",
+      "translation": "<dd id=\"mwjg\">Maayo, salamat. (<i id=\"mwjw\">mah-AH-yaw, sah-LAH-maht</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwkA\">What is your name?</dt>",
+      "translation": "<dd id=\"mwkQ\">Unsay imong pangalan? (<i id=\"mwkg\">oon-SIGH EE-mawng pah-NGAH-lahn?</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwkw\">I am ______. (i.e. My name is _____.)</dt>",
+      "translation": "<dd id=\"mwlA\">Ako si ______. (<i id=\"mwlQ\">ah-KAW see ____</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwlg\">Nice to meet you.</dt>",
+      "translation": "<dd id=\"mwlw\">Maayo nga nagka-ila ta. (<i id=\"mwmA\">mah-AH-yaw ngah nahg-kah-ee-LAH tah</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwmQ\">Please.</dt>",
+      "translation": "<dd id=\"mwmg\">Palihog. (<i id=\"mwmw\">pah-LEE-hawg</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwnA\">Thank you.</dt>",
+      "translation": "<dd id=\"mwnQ\">Salamat. (<i id=\"mwng\">sah-LAH-maht</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwnw\">Thank you very much.</dt>",
+      "translation": "<dd id=\"mwoA\">Daghang Salamat. (<i id=\"mwoQ\">dahg-HAHNG sah-LAH-maht</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwog\">You're welcome.</dt>",
+      "translation": "<dd id=\"mwow\">Walay sapayan. (<i id=\"mwpA\">wah-LIGH sah-PAH-yahn</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwpQ\">No problem.</dt>",
+      "translation": "<dd id=\"mwpg\">Walay problema. (<i id=\"mwpw\">wah-LIGH prawb-LEH-mah</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwqA\">Yes.</dt>",
+      "translation": "<dd id=\"mwqQ\">Oo. (<i id=\"mwqg\">AW-aw</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwqw\">No.</dt>",
+      "translation": "<dd id=\"mwrA\">Dili. (<i id=\"mwrQ\">DEE-lee</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwrg\">Excuse me. (<i id=\"mwrw\">getting attention</i>)</dt>",
+      "translation": "<dd id=\"mwsA\">Kadiyot lang. (<i id=\"mwsQ\">kah-JAWT lahng</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwsg\">Excuse me. (<i id=\"mwsw\">begging pardon</i>)</dt>",
+      "translation": "<dd id=\"mwtA\">Pasaylo-a ko. (<i id=\"mwtQ\">pah-SIGH-law-ah kaw</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwtg\">I'm sorry.</dt>",
+      "translation": "<dd id=\"mwtw\">Pasaylo-a ko. (<i id=\"mwuA\">pah-sigh-LAW-ah kaw</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwuQ\">Goodbye!</dt>",
+      "translation": "<dd id=\"mwug\">Amping! (<i id=\"mwuw\">ahm-PEENG!</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwvA\">I don’t know Cebuano.</dt>",
+      "translation": "<dd id=\"mwvQ\">Dili ko kahibalo mag-Binisaya. (<i id=\"mwvg\">DEE-lee kaw kah-hee-bah-LAW mahg-bee-nee-sah-YAH</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwvw\">Is there someone here who knows English?</dt>",
+      "translation": "<dd id=\"mwwA\">Naa ba’y kahibalo mag-iningles diri? <i id=\"mwwQ\">(nah-AH bigh ka-hee-bah-LAW mahg-een-NEENG-glehss dee-REE?)</i></dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwwg\">Help!</dt>",
+      "translation": "<dd id=\"mwww\">Tabang! (<i id=\"mwxA\">TAH-bahng!</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwxQ\">Look out!</dt>",
+      "translation": "<dd id=\"mwxg\">Pagbantay! (<i id=\"mwxw\">pahg-bahn-TIGH!</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwyA\">Good morning.</dt>",
+      "translation": "<dd id=\"mwyQ\">Maayong buntag. (<i id=\"mwyg\">mah-AH-yawng boon-TAHG</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwyw\">Good afternoon.</dt>",
+      "translation": "<dd id=\"mwzA\">Maayong hapon. (<i id=\"mwzQ\">mah-AH-yawng HAH-pawn</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwzg\">Good evening.</dt>",
+      "translation": "<dd id=\"mwzw\">Maayong gabi-i. (<i id=\"mw0A\">mah-AH-yawng gah-BEE-ee</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mw0Q\">Good night.</dt>",
+      "translation": "<dd id=\"mw0g\">Maayong gabi-i. (<i id=\"mw0w\">mah-AH-yawng gah-BEE-ee</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mw1A\">I don't understand.</dt>",
+      "translation": "<dd id=\"mw1Q\">Dili ko makasabot. (<i id=\"mw1g\">DEE-lee kaw mah-kah-SAH-bawt</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mw1w\">Where is the restroom?</dt>",
+      "translation": "<dd id=\"mw2A\">Asa dapit ang C.R.? (<i id=\"mw2Q\">AH-sah DAH-peet ahng SEE-ahr?</i>)  (note: in the Philippines, the restroom is called the “comfort room”, abbreviated to “C.R.” in everyday speech.)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mw3A\">Leave me alone!</dt>",
+      "translation": "<dd id=\"mw3Q\">Pasagda-i ko! (<i id=\"mw3g\">pah-SAHG-dah-ee kaw!</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mw3w\">Don't touch me!</dt>",
+      "translation": "<dd id=\"mw4A\">Ayaw ko hilabti! (<i id=\"mw4Q\">AH-yow kaw hee-LAHB-tee!</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mw4g\">Help!</dt>",
+      "translation": "<dd id=\"mw4w\">Tabang! (<i id=\"mw5A\">TAH-bahng!</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mw5Q\">I need your help!</dt>",
+      "translation": "<dd id=\"mw5g\">Kinahanglan ko ug tabang ninyo! (<i id=\"mw5w\">kee-nah-HAHNG-lahn kaw oog TAH-bahng NEEN-yaw!</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mw6A\">Police!</dt>",
+      "translation": "<dd id=\"mw6Q\">Pulis! (<i id=\"mw6g\">poo-LEESS!</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mw6w\">Call the police!</dt>",
+      "translation": "<dd id=\"mw7A\">Tawag ug pulis! (<i id=\"mw7Q\">TAH-wahg oog poo-LEESS!</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mw7g\">I'm lost.</dt>",
+      "translation": "<dd id=\"mw7w\">Nasalaag ko. (<i id=\"mw8A\">nah-sah-LAH-ahg kaw!</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mw8Q\">I'm tired</dt>",
+      "translation": "<dd id=\"mw8g\">Gikapoy ko. (<i id=\"mw8w\">gee-KAH-poy kaw</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mw9A\">I'm not feeling well.</dt>",
+      "translation": "<dd id=\"mw9Q\">Lain ang akong panglawas. (<i id=\"mw9g\">lighn ahng AH-kawng pahng-LAH-wahss</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mw9w\">I can't sleep.</dt>",
+      "translation": "<dd id=\"mw-A\">Dili ko makatulog. (<i id=\"mw-Q\">DEE-lee kaw mah-kah-TOO-lawg</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mw-g\">I can't eat.</dt>",
+      "translation": "<dd id=\"mw-w\">Dili ko makakaon. (<i id=\"mw_A\">DEE-lee koh mahk-KAH-kah-ohn</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mw_Q\">I have a headache.</dt>",
+      "translation": "<dd id=\"mw_g\">Sakit ang akong ulo./Labad ang akong ulo. (<i id=\"mw_w\">SAH-keet ahng AH-kohng OO-loh/LAH-bahd ahng AH-kohng OO-loh</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mwAQA\">I'm hungry.</dt>",
+      "translation": "<dd id=\"mwAQE\">Gigutom ko. (<i id=\"mwAQI\">gee-GOO-tohm koh</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mwAQM\">I'm thirsty.</dt>",
+      "translation": "<dd id=\"mwAQQ\">Giuhaw ko. (<i id=\"mwAQU\">gee-OO-haw koh</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mwAQY\">I ran out of money</dt>",
+      "translation": "<dd id=\"mwAQc\">Nahurot ang akong kwarta. (<i id=\"mwAQg\">nah-HOO-roht ahng AH-kohng KWAHR-tah</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mwAQk\">I lost my bag.</dt>",
+      "translation": "<dd id=\"mwAQo\">Nawala ang akong bag. (<i id=\"mwAQs\">nah-WAH-lah ahng AH-kohng bahg</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mwAQw\">I lost my wallet.</dt>",
+      "translation": "<dd id=\"mwAQ0\">Nawala ang akong pitaka. (<i id=\"mwAQ4\">nah-WAH-lah ahng AH-kohng pee-TAH-kah</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mwAQ8\">I lost my cellphone.</dt>",
+      "translation": "<dd id=\"mwARA\">Nawala ang akong cellphone. (<i id=\"mwARE\">nah-WAH-lah ahng AH-kohng sehl-fown</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mwARI\">I need a doctor.</dt>",
+      "translation": "<dd id=\"mwARM\">Kinahanglan ko ug doktor. (<i id=\"mwARQ\">kee-nah-hahng-LAHN kaw oog dawck-TAWR</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mwARU\">Can I use your phone?</dt>",
+      "translation": "<dd id=\"mwARY\">Puydi ko kagamit saimong silpon? (<i id=\"mwARc\">POOY-dee kaw kah-GAH-miht sah-EE-mawng SELL-pawn?</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mwAR4\">1</dt>",
+      "translation": "<dd id=\"mwAR8\">usa (<i id=\"mwASA\">oo-SAH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwASE\">2</dt>",
+      "translation": "<dd id=\"mwASI\">duha (<i id=\"mwASM\">doo-HAH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwASQ\">3</dt>",
+      "translation": "<dd id=\"mwASU\">tulo (<i id=\"mwASY\">too-LAW</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwASc\">4</dt>",
+      "translation": "<dd id=\"mwASg\">upat (<i id=\"mwASk\">oo-PAHT</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwASo\">5</dt>",
+      "translation": "<dd id=\"mwASs\">lima (<i id=\"mwASw\">lee-MAH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAS0\">6</dt>",
+      "translation": "<dd id=\"mwAS4\">unom (<i id=\"mwAS8\">oo-NAWM</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwATA\">7</dt>",
+      "translation": "<dd id=\"mwATE\">pito (<i id=\"mwATI\">pee-TAW</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwATM\">8</dt>",
+      "translation": "<dd id=\"mwATQ\">walo (<i id=\"mwATU\">wah-LAW</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwATY\">9</dt>",
+      "translation": "<dd id=\"mwATc\">siyam (<i id=\"mwATg\">shahm</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwATk\">10</dt>",
+      "translation": "<dd id=\"mwATo\">napulo (<i id=\"mwATs\">nah-POO-law</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwATw\">11</dt>",
+      "translation": "<dd id=\"mwAT0\">napulo ug usa (<i id=\"mwAT4\">nah-POO-lawg-oo-SAH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAT8\">12</dt>",
+      "translation": "<dd id=\"mwAUA\">napulo ug duha (<i id=\"mwAUE\">nah-POO-lawg-doo-HAH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAUI\">13</dt>",
+      "translation": "<dd id=\"mwAUM\">napulo ug tulo (<i id=\"mwAUQ\">nah-POO-lawg-too-LAW</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAUU\">14</dt>",
+      "translation": "<dd id=\"mwAUY\">napulo ug upat (<i id=\"mwAUc\">nah-POO-lawg-oo-PAHT</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAUg\">15</dt>",
+      "translation": "<dd id=\"mwAUk\">napulo ug lima (<i id=\"mwAUo\">nah-POO-lawg-lee-MAH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAUs\">16</dt>",
+      "translation": "<dd id=\"mwAUw\">napulo ug unom (<i id=\"mwAU0\">nah-POO-lawg-oo-NAWM</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAU4\">17</dt>",
+      "translation": "<dd id=\"mwAU8\">napulo ug pito (<i id=\"mwAVA\">nah-POO-lawg-pee-TAW</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAVE\">18</dt>",
+      "translation": "<dd id=\"mwAVI\">napulo ug walo (<i id=\"mwAVM\">nah-POO-lawg-WAH-LAW</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAVQ\">19</dt>",
+      "translation": "<dd id=\"mwAVU\">napulo ug siyam (<i id=\"mwAVY\">nah-POO-lawg-shahm</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAVc\">20</dt>",
+      "translation": "<dd id=\"mwAVg\">kawhaan (<i id=\"mwAVk\">kow-hah-AHN</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAVo\">21</dt>",
+      "translation": "<dd id=\"mwAVs\">kawhaan ug usa (<i id=\"mwAVw\">kow-HAH-ahn oog oo-SAH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAV0\">22</dt>",
+      "translation": "<dd id=\"mwAV4\">kawhaan ug duha (<i id=\"mwAV8\">kow-hah-AHN oog doo-HAH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAWA\">23</dt>",
+      "translation": "<dd id=\"mwAWE\">kawhaan ug tulo (<i id=\"mwAWI\">kow-hah-AHN oog too-LAW</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAWM\">30</dt>",
+      "translation": "<dd id=\"mwAWQ\">katloan (<i id=\"mwAWU\">kaht-law-AHN</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAWY\">40</dt>",
+      "translation": "<dd id=\"mwAWc\">kap-atan (<i id=\"mwAWg\">kahp-ah-TAHN</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAWk\">50</dt>",
+      "translation": "<dd id=\"mwAWo\">kalim-an (<i id=\"mwAWs\">kah-lihm-AHN</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAWw\">60</dt>",
+      "translation": "<dd id=\"mwAW0\">kanum-an (<i id=\"mwAW4\">kah-NOOM-ahn</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAW8\">70</dt>",
+      "translation": "<dd id=\"mwAXA\">kapitoan (<i id=\"mwAXE\">kah-pee-taw-AHN</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAXI\">80</dt>",
+      "translation": "<dd id=\"mwAXM\">kawaloan (<i id=\"mwAXQ\">kah-wah-LWAHN</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAXU\">90</dt>",
+      "translation": "<dd id=\"mwAXY\">kasiyaman (<i id=\"mwAXc\">kah-see-yah-MAHN</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAXg\">100</dt>",
+      "translation": "<dd id=\"mwAXk\">usa ka gatos (<i id=\"mwAXo\">oo-SAH kah gah-TAWSS</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAXs\">200</dt>",
+      "translation": "<dd id=\"mwAXw\">duha ka gatos (<i id=\"mwAX0\">doo-HAH kah gah-TAWSS</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAX4\">300</dt>",
+      "translation": "<dd id=\"mwAX8\">tulo ka gatos (<i id=\"mwAYA\">too-LAW kah gah-TAWSS</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAYE\">1000</dt>",
+      "translation": "<dd id=\"mwAYI\">usa ka libo (<i id=\"mwAYM\">oo-SAH kah LEE-baw</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAYQ\">10,000</dt>",
+      "translation": "<dd id=\"mwAYU\">napulo ka libo (<i id=\"mwAYY\">nah-POO-law kah LEE-baw</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAYc\">100,000</dt>",
+      "translation": "<dd id=\"mwAYg\">usa ka gatos ka libo (<i id=\"mwAYk\">OO-sah kah GAH-tohs kah LEE-boh</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAYo\">1,000,000</dt>",
+      "translation": "<dd id=\"mwAYs\">usa ka milyon (<i id=\"mwAYw\">OO-sah kah MEE-lyohn</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAY0\">1,000,000,000</dt>",
+      "translation": "<dd id=\"mwAY4\">usa ka bilyon (<i id=\"mwAY8\">OO-sah kah beell-YAWN</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAZA\">1,000,000,000,000</dt>",
+      "translation": "<dd id=\"mwAZE\">usa ka trilyon (<i id=\"mwAZI\">OO-sah kah TREE-lyohn</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAZM\">number _____ (train, bus, etc.)</dt>",
+      "translation": "<dd id=\"mwAZQ\">numero ug tren, bus (<i id=\"mwAZU\">NOO-meh-raw oog trehn, booss</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAZY\">half</dt>",
+      "translation": "<dd id=\"mwAZc\">katunga (<i id=\"mwAZg\">kah-too-NGAH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAZk\">less</dt>",
+      "translation": "<dd id=\"mwAZo\">gamay (<i id=\"mwAZs\">gah-MIGH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAZw\">more</dt>",
+      "translation": "<dd id=\"mwAZ0\">daghan (<i id=\"mwAZ4\">dahg-HAHN</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAaI\">one o'clock AM</dt>",
+      "translation": "<dd id=\"mwAaM\">ala una sa ka-adlawon (<i id=\"mwAaQ\">ah-LAH OO-nah sah kah-ahd-LAH-wawn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAaU\">two o'clock AM</dt>",
+      "translation": "<dd id=\"mwAaY\">alas dos sa ka-adlawon (<i id=\"mwAac\">ah-LAHSS dawss sah kah-ahd-LAH-wawn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAag\">midday</dt>",
+      "translation": "<dd id=\"mwAak\">udto (<i id=\"mwAao\">ood-TAW</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAas\">one o'clock PM</dt>",
+      "translation": "<dd id=\"mwAaw\">ala una sa hapon (<i id=\"mwAa0\">ah-LAH OO-nah sah HAH-pawn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAa4\">two o'clock PM</dt>",
+      "translation": "<dd id=\"mwAa8\">alas dos sa hapon (<i id=\"mwAbA\">ah-LAHSS dawss sah HAH-pawn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAbE\">midnight</dt>",
+      "translation": "<dd id=\"mwAbI\">tungang gabi-i (<i id=\"mwAbM\">too-NGAHNG gah-BEE-ee</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAbY\">_____ second(s)</dt>",
+      "translation": "<dd id=\"mwAbc\">_____ ka segundo(s) (<i id=\"mwAbg\">kah seh-GOON-daw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAbk\">_____ minute(s)</dt>",
+      "translation": "<dd id=\"mwAbo\">_____ ka minuto(s) (<i id=\"mwAbs\">kah mee-NOO-taw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAbw\">_____ hour(s)</dt>",
+      "translation": "<dd id=\"mwAb0\">_____ ka oras (<i id=\"mwAb4\">kah AW-rahss</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAb8\">_____ day(s)</dt>",
+      "translation": "<dd id=\"mwAcA\">_____ ka adlaw (<i id=\"mwAcE\">kah AHD-low</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAcI\">_____ week(s)</dt>",
+      "translation": "<dd id=\"mwAcM\">_____ ka semana (<i id=\"mwAcQ\">kah seh-MAH-nah</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAcU\">_____ month(s)</dt>",
+      "translation": "<dd id=\"mwAcY\">_____ ka bulan (<i id=\"mwAcc\">kah BOO-lahn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAcg\">_____ year(s)</dt>",
+      "translation": "<dd id=\"mwAck\">_____ ka tu-ig (<i id=\"mwAco\">kah too-EEG</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAc0\">day</dt>",
+      "translation": "<dd id=\"mwAc4\">adlaw (<i id=\"mwAc8\">ahd-LOW</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAdA\">today</dt>",
+      "translation": "<dd id=\"mwAdE\">karon (<i id=\"mwAdI\">kah-RAWN</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAdM\">yesterday</dt>",
+      "translation": "<dd id=\"mwAdQ\">gahapon (<i id=\"mwAdU\">gah-HAH-pawn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAdY\">tomorrow</dt>",
+      "translation": "<dd id=\"mwAdc\">ugma (<i id=\"mwAdg\">oog-MAH' </i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAdk\">tonight</dt>",
+      "translation": "<dd id=\"mwAdo\">karong gabi-i (<i id=\"mwAds\">kah-RAWNG gah-BEE-ee</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAdw\">week</dt>",
+      "translation": "<dd id=\"mwAd0\">semana (<i id=\"mwAd4\">seh-MAH-nah</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAd8\">this week</dt>",
+      "translation": "<dd id=\"mwAeA\">karong semana (<i id=\"mwAeE\">kah-RAWNG seh-MAH-nah</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAeI\">last week</dt>",
+      "translation": "<dd id=\"mwAeM\">niaging semana (<i id=\"mwAeQ\">nee-AH-geeng seh-MAH-nah</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAeU\">next week</dt>",
+      "translation": "<dd id=\"mwAeY\">sunod semana (<i id=\"mwAec\">soo-NAWD seh-MAH-nah</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAeo\">Sunday</dt>",
+      "translation": "<dd id=\"mwAes\">Dominggo (<i id=\"mwAew\">doh-MEENG-gaw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAe0\">Monday</dt>",
+      "translation": "<dd id=\"mwAe4\">Lunes (<i id=\"mwAe8\">LOO-nehss</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAfA\">Tuesday</dt>",
+      "translation": "<dd id=\"mwAfE\">Martes (<i id=\"mwAfI\">MAHR-tehss</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAfM\">Wednesday</dt>",
+      "translation": "<dd id=\"mwAfQ\">Miyerkoles (<i id=\"mwAfU\">myehr-KOO-lehss</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAfY\">Thursday</dt>",
+      "translation": "<dd id=\"mwAfc\">Huwebes (<i id=\"mwAfg\">hoo-WEH-behss</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAfk\">Friday</dt>",
+      "translation": "<dd id=\"mwAfo\">Biyernes (<i id=\"mwAfs\">BYEHR-nehss</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAfw\">Saturday</dt>",
+      "translation": "<dd id=\"mwAf0\">Sabado (<i id=\"mwAf4\">SAH-bah-daw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAgI\">January</dt>",
+      "translation": "<dd id=\"mwAgM\">Enero (<i id=\"mwAgQ\">eh-NEH-raw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAgU\">February</dt>",
+      "translation": "<dd id=\"mwAgY\">Pebrero (<i id=\"mwAgc\">peh-BREH-raw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAgg\">March</dt>",
+      "translation": "<dd id=\"mwAgk\">Marso (<i id=\"mwAgo\">MAHR-saw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAgs\">April</dt>",
+      "translation": "<dd id=\"mwAgw\">Abril (<i id=\"mwAg0\">ahb-REELL</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAg4\">May</dt>",
+      "translation": "<dd id=\"mwAg8\">Mayo (<i id=\"mwAhA\">MAH-yaw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAhE\">June</dt>",
+      "translation": "<dd id=\"mwAhI\">Hunyo (<i id=\"mwAhM\">HOO-nyaw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAhQ\">July</dt>",
+      "translation": "<dd id=\"mwAhU\">Hulyo (<i id=\"mwAhY\">HOO-lyaw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAhc\">August</dt>",
+      "translation": "<dd id=\"mwAhg\">Agosto (<i id=\"mwAhk\">ah-GAWSS-taw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAho\">September</dt>",
+      "translation": "<dd id=\"mwAhs\">Septyembre (<i id=\"mwAhw\">sehp-TYEHM-breh</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAh0\">October</dt>",
+      "translation": "<dd id=\"mwAh4\">Oktubre (<i id=\"mwAh8\">awck-TOO-breh</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAiA\">November</dt>",
+      "translation": "<dd id=\"mwAiE\">Nobyembre (<i id=\"mwAiI\">noo-BYEHM-breh</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAiM\">December</dt>",
+      "translation": "<dd id=\"mwAiQ\">Disyembre (<i id=\"mwAiU\">dee-SYEHM-breh</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAi8\">black</dt>",
+      "translation": "<dd id=\"mwAjA\">itúm (<i id=\"mwAjE\">ee-TOOM</i>)</dd>",
+      "category": "colors",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Colors"
+    },
+    {
+      "phrase": "<dt id=\"mwAjI\">blue</dt>",
+      "translation": "<dd id=\"mwAjM\">asul (<i id=\"mwAjQ\">AH-sool</i>)</dd>",
+      "category": "colors",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Colors"
+    },
+    {
+      "phrase": "<dt id=\"mwAjU\">brown</dt>",
+      "translation": "<dd id=\"mwAjY\">kape (<i id=\"mwAjc\">kah-PEH</i>)</dd>",
+      "category": "colors",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Colors"
+    },
+    {
+      "phrase": "<dt id=\"mwAjg\">gold</dt>",
+      "translation": "<dd id=\"mwAjk\">bulawan (<i id=\"mwAjo\">boo-LAH-wahn</i>)</dd>",
+      "category": "colors",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Colors"
+    },
+    {
+      "phrase": "<dt id=\"mwAjs\">green</dt>",
+      "translation": "<dd id=\"mwAjw\">berde (<i id=\"mwAj0\">BEHR-deh</i>)</dd>",
+      "category": "colors",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Colors"
+    },
+    {
+      "phrase": "<dt id=\"mwAj4\">gray</dt>",
+      "translation": "<dd id=\"mwAj8\">abuhun (<i id=\"mwAkA\">ah-BOO-hoon</i>)</dd>",
+      "category": "colors",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Colors"
+    },
+    {
+      "phrase": "<dt id=\"mwAkE\">orange</dt>",
+      "translation": "<dd id=\"mwAkI\">orens (<i id=\"mwAkM\">AW-rehnss</i>)</dd>",
+      "category": "colors",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Colors"
+    },
+    {
+      "phrase": "<dt id=\"mwAkQ\">pink</dt>",
+      "translation": "<dd id=\"mwAkU\">rosa (<i id=\"mwAkY\">RAW-sah</i>)</dd>",
+      "category": "colors",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Colors"
+    },
+    {
+      "phrase": "<dt id=\"mwAkc\">red</dt>",
+      "translation": "<dd id=\"mwAkg\">pula (<i id=\"mwAkk\">poo-LAH</i>)</dd>",
+      "category": "colors",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Colors"
+    },
+    {
+      "phrase": "<dt id=\"mwAko\">violet</dt>",
+      "translation": "<dd id=\"mwAks\">bayole (<i id=\"mwAkw\">BAH-yoo-leht</i>)</dd>",
+      "category": "colors",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Colors"
+    },
+    {
+      "phrase": "<dt id=\"mwAk0\">white</dt>",
+      "translation": "<dd id=\"mwAk4\">putí (<i id=\"mwAk8\">poo-TEE</i>)</dd>",
+      "category": "colors",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Colors"
+    },
+    {
+      "phrase": "<dt id=\"mwAlA\">yellow</dt>",
+      "translation": "<dd id=\"mwAlE\">dalág (<i id=\"mwAlI\">dah-LAHG</i>)</dd>",
+      "category": "colors",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Colors"
+    },
+    {
+      "phrase": "<dt id=\"mwAlc\">How much is a ticket to _____?</dt>",
+      "translation": "<dd id=\"mwAlg\">Tagpila ang tiket paingon sa _____<span id=\"mwAlk\" typeof=\"mw:DisplaySpace\"> </span>? (<i id=\"mwAlo\">tahg-PEE-lah ahng TEE-keht pah-EE-ngawn sah ___?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAls\">One ticket to _____, please.</dt>",
+      "translation": "<dd id=\"mwAlw\">Usa ka tiket paingon sa _____, palihog. (<i id=\"mwAl0\">OO-sah kah TEE-keht pah-EE-ngawn sah ____, pah-LEE-hawg</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAl4\">Where does this bus go?</dt>",
+      "translation": "<dd id=\"mwAl8\">Asa paingon kining bus? (<i id=\"mwAmA\">AH-sah pah-EE-ngawn KEE-neeng boos?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAmE\">Where is the bus to _____?</dt>",
+      "translation": "<dd id=\"mwAmI\">Asa ang bus padulong _____<span id=\"mwAmM\" typeof=\"mw:DisplaySpace\"> </span>? (<i id=\"mwAmQ\">AH-sah ahng boos pah-EE-ngawn sah ____?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAmU\">Does this bus stop in _____?</dt>",
+      "translation": "<dd id=\"mwAmY\">Mohunong ba kining bus sa _____? (<i id=\"mwAmc\">maw-HOO-nawng bah kee-NEENG boos sah ____?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAmg\">When does the bus for _____ leave?</dt>",
+      "translation": "<dd id=\"mwAmk\">Kanus-a ba mohawa kining bus paingon sa _____? (<i id=\"mwAmo\">KAH-noos-ah bah moh-HAH-wah kee-NEENG booss pah-EE-ngawn sah _____?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAms\">When will this bus arrive in _____?</dt>",
+      "translation": "<dd id=\"mwAmw\">Kanus-a moabot kining bus sa _____? (<i id=\"mwAm0\">kah-NOOS-ah moh-AH-boht kee-NEENG boos sah ____?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAnA\">Where is the _____?</dt>",
+      "translation": "<dd id=\"mwAnE\">Asa dapit ang _____? (<i id=\"mwAnI\">AH-sah DAH-peet ahng___?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAnM\">street</dt>",
+      "translation": "<dd id=\"mwAnQ\">dalan (<i id=\"mwAnU\">DAH-lahn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAnY\">road</dt>",
+      "translation": "<dd id=\"mwAnc\">karsada (<i id=\"mwAng\">kahr-SAH-dah</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAnk\">avenue</dt>",
+      "translation": "<dd id=\"mwAno\">abenyu (<i id=\"mwAns\">AH-beh-nyoo</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAnw\">path</dt>",
+      "translation": "<dd id=\"mwAn0\">subayanan (<i id=\"mwAn4\">soo-bah-YAH-nahn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAn8\">alley</dt>",
+      "translation": "<dd id=\"mwAoA\">eskinita (<i id=\"mwAoE\">ehs-kee-NEE-tah</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAoI\">highway</dt>",
+      "translation": "<dd id=\"mwAoM\">haywi (<i id=\"mwAoQ\">HAI-wee</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAoU\">corner</dt>",
+      "translation": "<dd id=\"mwAoY\">eskina (<i id=\"mwAoc\">ehs-KEE-nah</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAog\">Turn left.</dt>",
+      "translation": "<dd id=\"mwAok\">Liko sa wala. (<i id=\"mwAoo\">LEE-kaw sah wah-LAH</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAos\">Turn right.</dt>",
+      "translation": "<dd id=\"mwAow\">Liko sa tu-o. (<i id=\"mwAo0\">LEE-koh sah TOO-oh</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAo4\">left</dt>",
+      "translation": "<dd id=\"mwAo8\">wala (<i id=\"mwApA\">wah-LAH</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwApE\">right</dt>",
+      "translation": "<dd id=\"mwApI\">tu-o (<i id=\"mwApM\">TOO-aw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwApQ\">straight ahead</dt>",
+      "translation": "<dd id=\"mwApU\">adto deretso (<i id=\"mwApY\">ahd-TAW deh-REHT-saw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwApc\">towards the _____</dt>",
+      "translation": "<dd id=\"mwApg\">padulong sa _____ (<i id=\"mwApk\">pah-DOO-lawng sah____</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwApo\">past the _____</dt>",
+      "translation": "<dd id=\"mwAps\">lapas sa _____ (<i id=\"mwApw\">LAH-pahs sah____</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAp0\">before the _____</dt>",
+      "translation": "<dd id=\"mwAp4\">sa dili pa ang _____ (<i id=\"mwAp8\">sah DEE-lee pah ahng ____</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAqA\">Watch out for the _____.</dt>",
+      "translation": "<dd id=\"mwAqE\">Pagbantay sa _____. (<i id=\"mwAqI\">pahg-BAHN-tigh sah____</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAqM\">intersection</dt>",
+      "translation": "<dd id=\"mwAqQ\">interseksiyon  (<i id=\"mwAqU\">een-tehr-SEHCK-syawn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAqY\">north</dt>",
+      "translation": "<dd id=\"mwAqc\">amihanan (<i id=\"mwAqg\">ah-mee-HAH-nahn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAqk\">south</dt>",
+      "translation": "<dd id=\"mwAqo\">habagatan (<i id=\"mwAqs\">hah-bah-GAH-tahn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAqw\">east</dt>",
+      "translation": "<dd id=\"mwAq0\">sidlakan (<i id=\"mwAq4\">seed-LAH-kahn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAq8\">west</dt>",
+      "translation": "<dd id=\"mwArA\">kasadpan (<i id=\"mwArE\">kah-SAHD-pahn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwArI\">uphill</dt>",
+      "translation": "<dd id=\"mwArM\">pasaka (sa buntod) (<i id=\"mwArQ\">pah-SAH-kah (sah BOON-tohd)</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwArU\">downhill</dt>",
+      "translation": "<dd id=\"mwArY\">paubos (sa buntod) (<i id=\"mwArc\">pah-OO-bohs (sah BOON-tohd)</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAro\">Taxi!</dt>",
+      "translation": "<dd id=\"mwArs\">Taksi! (<i id=\"mwArw\">TAHK-see</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAr0\">Take me to _____, please.</dt>",
+      "translation": "<dd id=\"mwAr4\">Dad-a ko sa_____, palihug. (<i id=\"mwAr8\">dahd-ah koh sah_____, pah-LEE-hoog</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAsA\">I'm going to ____</dt>",
+      "translation": "<dd id=\"mwAsE\">Mo-adto ko sa  _____ (<i id=\"mwAsI\">moh-AHD-toh koh sah___?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAsM\">How much does it cost to get to _____?</dt>",
+      "translation": "<dd id=\"mwAsQ\">Pila ang pliti padulong _____? (<i id=\"mwAsU\">PEE-lah ahng PLEE-tee pah-doo-LOHNG____?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAsY\">How much is the fare?</dt>",
+      "translation": "<dd id=\"mwAsc\">Pila ang pliti? (<i id=\"mwAsg\">pee-LAH ahng plee-TEE?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAsk\">Take me there, please.</dt>",
+      "translation": "<dd id=\"mwAso\">Dad-a ko diha, palihug. (<i id=\"mwAss\">DAHD-ah koh DEE-hah, pah-LEE-hoog</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAs8\">Stop! (to get off the jeepney)</dt>",
+      "translation": "<dd id=\"mwAtA\">Lugar! (<i id=\"mwAtE\">loo-GAHR!</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAtI\">How much is the fare to _____?</dt>",
+      "translation": "<dd id=\"mwAtM\">Tagpila ang pliti padulong _____? (<i id=\"mwAtQ\">tahg-pee-LAH ahng plee-TEE pah-doo-LOHNG_____?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAtU\">Sir (Driver), where's my change?</dt>",
+      "translation": "<dd id=\"mwAtY\">Manong, Asa ang akong sukli? (<i id=\"mwAtc\">mah-NOHNG, ah-SAH ahng ah-KOHNG soo-KLEE?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAtg\">Sir (Driver), you have excess change.</dt>",
+      "translation": "<dd id=\"mwAtk\">Manong, sobra ang imong sukli. (<i id=\"mwAto\">mah-NOHNG, soh-BRAH ahng ee-MOHNG soo-KLEE?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAts\">Can you drop me off at ____?</dt>",
+      "translation": "<dd id=\"mwAtw\">Mahimo ba malugar sa ____? (<i id=\"mwAt0\">mah-hee-MOH bah mah-loo-GAHR sah____?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAt4\">Where are you from?</dt>",
+      "translation": "<dd id=\"mwAt8\">Asa ka gikan? (<i id=\"mwAuA\">ah-SAH kah gee-KAHN?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAuE\">Where will you drop off?</dt>",
+      "translation": "<dd id=\"mwAuI\">Asa ka manaog? (<i id=\"mwAuM\">ah-SAH kah mah-nah-OHG?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAuY\">Do you have any rooms available?</dt>",
+      "translation": "<dd id=\"mwAuc\">Naa moy kwarto na bakante? (<i id=\"mwAug\">nah-AH moi kwahr-TOH nah bah-kahn-TEH?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAuk\">How much is a room for one person/two people?</dt>",
+      "translation": "<dd id=\"mwAuo\">Tagpila ang kwarto alang sa usa ka tawo/duha ka tawo? (<i id=\"mwAus\">tahg-pee-LAH ahng kwahr-TAW ah-LAHNG sah oo-SAH kah TAH-waw/ doo-HAH kah TAH-waw?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAuw\">Does the room come with...</dt>",
+      "translation": "<dd id=\"mwAu0\">Kining kwarto apil na ba ang ______<span id=\"mwAu4\" typeof=\"mw:DisplaySpace\"> </span>? (<i id=\"mwAu8\">kee-NEENG kwahr-TAW AH-peel nah bah ahng ___?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAvA\">...bedsheets?</dt>",
+      "translation": "<dd id=\"mwAvE\">...habol? (<i id=\"mwAvI\">hah-BOHLL?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAvM\">...pillows?</dt>",
+      "translation": "<dd id=\"mwAvQ\">...unlan? (<i id=\"mwAvU\">oon-LAHN?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAvY\">...a bathroom?</dt>",
+      "translation": "<dd id=\"mwAvc\">...banyo? (<i id=\"mwAvg\">bah-NYAW?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAvk\">...a telephone?</dt>",
+      "translation": "<dd id=\"mwAvo\">...telepono? (<i id=\"mwAvs\">teh-LEH-poo-naw?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAvw\">...a TV?</dt>",
+      "translation": "<dd id=\"mwAv0\">... TV? (<i id=\"mwAv4\">TEE-bee</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAv8\">Can I see the room first?</dt>",
+      "translation": "<dd id=\"mwAwA\">Mahimo ba motan-aw sa inyong kwarto una? (<i id=\"mwAwE\">mah-HEE-moh bah moh-TAHN-aw sah EEN-yohng KWAHR-toh OO-nah?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAwI\">Do you have anything quieter?</dt>",
+      "translation": "<dd id=\"mwAwM\">Naa pay mas hilom pa? (<i id=\"mwAwQ\">NAH-ah pai mahs HEE-lohm pah?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAwU\">...bigger?</dt>",
+      "translation": "<dd id=\"mwAwY\">...mas dako? (<i id=\"mwAwc\">mahss dah-KAW?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAwg\">...cleaner?</dt>",
+      "translation": "<dd id=\"mwAwk\">...mas limpyo? (<i id=\"mwAwo\">mahss LEEM-pyaw?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAws\">...cheaper?</dt>",
+      "translation": "<dd id=\"mwAww\">...mas barato? (<i id=\"mwAw0\">mahss bah-RAH-taw?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAw4\">OK, I'll take it.</dt>",
+      "translation": "<dd id=\"mwAw8\">Sige, kuhaon nako. (<i id=\"mwAxA\">SEE-geh, koo-HAH ohn NAH-koh</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAxE\">I will stay for _____ night(s).</dt>",
+      "translation": "<dd id=\"mwAxI\">Mopuyo ko diri sa _____ ka gab-i. (<i id=\"mwAxM\">maw-POO-yaw kaw DEE-ree sah ____ kah GAH-bee</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAxQ\">Can you suggest another hotel?</dt>",
+      "translation": "<dd id=\"mwAxU\">Naa bay masugyut nimu nga laing hotel? (<i id=\"mwAxY\">nah-AH bigh mah-SOOG-yoot NEE-maw ngah LAH-eeng HOH-tehll?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAxc\">Do you have a safe?</dt>",
+      "translation": "<dd id=\"mwAxg\">Naa ba moy tipiganan sa salapi? (<i id=\"mwAxk\">nah-AH bah moi tee-pee-GAH-nahn sah sah-lah-PEE?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAxo\">...lockers?</dt>",
+      "translation": "<dd id=\"mwAxs\">...armaryo/mga locker? (<i id=\"mwAxw\">ahr-MAHR-yaw/ma-NGAH LAWK-kehr?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAx0\">Is breakfast/supper included?</dt>",
+      "translation": "<dd id=\"mwAx4\">Apil na ba ang pamahaw/panihapon? (<i id=\"mwAx8\">AH-peel nah bah ahng pah-MAH-how/pah-nee-HAH-pawn?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAyA\">What time is breakfast/lunch/supper?</dt>",
+      "translation": "<dd id=\"mwAyE\">Unsa ang oras sa pamahaw/paniudto/panihapon? (<i id=\"mwAyI\">oon-SAH ahng aw-RAHSS sah pah-mah-HOW/pah-nee-ood-TAW/pah-nee-hah-PAWN?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAyM\">Please clean my room.</dt>",
+      "translation": "<dd id=\"mwAyQ\">Palihog, limpyoha ang akong kwarto. (<i id=\"mwAyU\">pah-LEE-hawg LEEM-pyaw-hah ahng AH-kawng kwahr-TAW</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAyY\">Can you wake me up at_____? ( e.g. ten o'clock AM)</dt>",
+      "translation": "<dd id=\"mwAyc\">Mahimo ba pukawon ko sa _____? (<i id=\"mwAyg\">mah-HEE-maw bah poo-KAH-wawn kaw sah ____?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAyk\">I want to check out.</dt>",
+      "translation": "<dd id=\"mwAyo\">Gusto na ko mo-check-out. (<i id=\"mwAys\">gooss-TAW nah kaw maw-CHEHCK-owt</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAy4\">Do you accept American/Australian/Canadian dollars?</dt>",
+      "translation": "<dd id=\"mwAy8\">Modawat ka og American/Australian/Canadian dollars? (<i id=\"mwAzA\">maw-DAH-waht kah awg ah-MEH-ree-kahn/owss-TRAYLL-yahn/kah-NAYD-yahn DAW-lahrss?</i>)</dd>",
+      "category": "money",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Money"
+    },
+    {
+      "phrase": "<dt id=\"mwAzE\">Do you accept British pounds?</dt>",
+      "translation": "<dd id=\"mwAzI\">Modawat ka og British pounds? (<i id=\"mwAzM\">maw-DAH-waht kah awg BREE-teesh powndss?</i>)</dd>",
+      "category": "money",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Money"
+    },
+    {
+      "phrase": "<dt id=\"mwAzQ\">Do you accept euros?</dt>",
+      "translation": "<dd id=\"mwAzU\">Modawat ka og euros? (<i id=\"mwAzY\">maw-DAW-waht kah awg YOO-rohss?</i>)</dd>",
+      "category": "money",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Money"
+    },
+    {
+      "phrase": "<dt id=\"mwAzc\">Do you accept credit cards?</dt>",
+      "translation": "<dd id=\"mwAzg\">Modawat ka og credit cards? (<i id=\"mwAzk\">maw-DAH-waht kah awg KREH-diht kahrdss?</i>)</dd>",
+      "category": "money",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Money"
+    },
+    {
+      "phrase": "<dt id=\"mwAzo\">Can you change money for me?</dt>",
+      "translation": "<dd id=\"mwAzs\">Puydi ko magpabaylo? (<i id=\"mwAzw\">pooi-DEE kaw mahg-pah-BIGH-law?</i>)</dd>",
+      "category": "money",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Money"
+    },
+    {
+      "phrase": "<dt id=\"mwAz0\">Where can I get money changed?</dt>",
+      "translation": "<dd id=\"mwAz4\">Asa ko puydi magpabaylo? (<i id=\"mwAz8\">AH-sah kaw pooi-DEE mahg-pah-BIGH-law?</i>)</dd>",
+      "category": "money",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Money"
+    },
+    {
+      "phrase": "<dt id=\"mwA0A\">Can you change a traveler's check for me?</dt>",
+      "translation": "<dd id=\"mwA0E\">Puydi ko og magpabaylo og traveler's check? (<i id=\"mwA0I\">POOI-dee kaw awg mahg-pah-BIGH-law TRAH-beh-lehrss chehck?</i>)</dd>",
+      "category": "money",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Money"
+    },
+    {
+      "phrase": "<dt id=\"mwA0M\">Where can I get a traveler's check changed?</dt>",
+      "translation": "<dd id=\"mwA0Q\">Asa ko puydi magpabaylo og traveler's check? (<i id=\"mwA0U\">AH-sah kaw pooi-DEE mahg-pah-BIGH-law awg TRAH-beh-lehrss chehck?</i>)</dd>",
+      "category": "money",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Money"
+    },
+    {
+      "phrase": "<dt id=\"mwA0Y\">What is the exchange rate?</dt>",
+      "translation": "<dd id=\"mwA0c\">Pila ang exhange rate? (<i id=\"mwA0g\">pee-LAH ahng ehkss-CHAYNJ rayt?</i>)</dd>",
+      "category": "money",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Money"
+    },
+    {
+      "phrase": "<dt id=\"mwA0k\">Where is an automatic teller machine (ATM)?</dt>",
+      "translation": "<dd id=\"mwA0o\">Katood ka asa dapit ang ATM? (<i id=\"mwA0s\">kah-too-AWD kah AH-sah dah-PEET ahng ey-TEE-ehm?</i>)</dd>",
+      "category": "money",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Money"
+    },
+    {
+      "phrase": "<dt id=\"mwA04\">A table for one person/two people, please.</dt>",
+      "translation": "<dd id=\"mwA08\">Lamisa alang sa usa/duha ka tao, palihog. (<i id=\"mwA1A\">lah-MEE-sah AH-lahng sah oo-SAH/doo-HAH kah TAH-aw, pah-LEE-hawg</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA1E\">Can I look at the menu, please?</dt>",
+      "translation": "<dd id=\"mwA1I\">Mahimo ba motan-aw sa menu, palihog? (<i id=\"mwA1M\">mah-HEE-maw bah maw-TAHN-ow sah meh-NOO, pah-LEE-hawg?</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA1Q\">Can I look in the kitchen?</dt>",
+      "translation": "<dd id=\"mwA1U\">Mahimo ba makakita ang kusina? (<i id=\"mwA1Y\">mah-HEE-maw bah mah-kah-KEE-tah ahng koo-SEE-nah</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA1c\">Where's the bathroom?</dt>",
+      "translation": "<dd id=\"mwA1g\">Asa dapit ang banyo/hugasanan? (<i id=\"mwA1k\">AH-sah dah-PEET ahng BAHN-yaw?</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA1o\">I'm a vegetarian.</dt>",
+      "translation": "<dd id=\"mwA1s\">Vegetarian ko. (<i id=\"mwA1w\">beh-jeh-TAHR-yahn kaw</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA10\">I don't eat pork.</dt>",
+      "translation": "<dd id=\"mwA14\">Dili ko mokaon ug karneng baboy. (<i id=\"mwA18\">DEE-lee kaw maw-KAH-awn oog KAHR-nehng BAH-boi</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA2A\">I don't eat beef.</dt>",
+      "translation": "<dd id=\"mwA2E\">Dili ko mokaon ug karneng baka. (<i id=\"mwA2I\">DEE-lee kaw maw-KAH-awn oog KAHR-nehng BAH-kah</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA2M\">It's salty.</dt>",
+      "translation": "<dd id=\"mwA2Q\">Parat ni. (<i id=\"mwA2U\">PAH-raht nee</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA2Y\">It's so sweet.</dt>",
+      "translation": "<dd id=\"mwA2c\">Tam-is ni. (<i id=\"mwA2g\">tahm-EESS nee</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA2k\">It's so spicy.</dt>",
+      "translation": "<dd id=\"mwA2o\">Halang-ni. (<i id=\"mwA2s\">hah-LAHNG nee</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA2w\">breakfast</dt>",
+      "translation": "<dd id=\"mwA20\">pamahaw (<i id=\"mwA24\">pah-MAH-how</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA28\">lunch</dt>",
+      "translation": "<dd id=\"mwA3A\">paniudto (<i id=\"mwA3E\">pah-NEE-ood-taw</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA3I\">snack (<i id=\"mwA3M\">meal</i>)</dt>",
+      "translation": "<dd id=\"mwA3Q\">meryenda (<i id=\"mwA3U\">mehr-YEHN-dah</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA3Y\">supper</dt>",
+      "translation": "<dd id=\"mwA3c\">panihapon (<i id=\"mwA3g\">pah-nee-HAH-pawn</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA3k\">I want _____.</dt>",
+      "translation": "<dd id=\"mwA3o\">Gusto ko ug _____. (<i id=\"mwA3s\">GOOSS-taw kaw oog ____</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA3w\">I want a dish  called  _____.</dt>",
+      "translation": "<dd id=\"mwA30\">Gusto ko ug sud-an nga _____. (<i id=\"mwA34\">gooss-TAW kaw oog sood-AHN ngah _____</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA38\">chicken</dt>",
+      "translation": "<dd id=\"mwA4A\">karneng manok (<i id=\"mwA4E\">kahr-NEHNG mah-NAWCK</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA4I\">beef</dt>",
+      "translation": "<dd id=\"mwA4M\">karneng baka (<i id=\"mwA4Q\">kahr-NEHNG BAH-kah</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA4U\">fish</dt>",
+      "translation": "<dd id=\"mwA4Y\">isda (<i id=\"mwA4c\">EES-dah</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA4g\">ham</dt>",
+      "translation": "<dd id=\"mwA4k\">hamon (<i id=\"mwA4o\">hah-MAWN</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA4s\">food</dt>",
+      "translation": "<dd id=\"mwA4w\">pagkaon (<i id=\"mwA40\">pahg-KAH-awn</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA44\">drinks</dt>",
+      "translation": "<dd id=\"mwA48\">panginom (<i id=\"mwA5A\">pahn-GEE-nohm</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA5E\">sausage</dt>",
+      "translation": "<dd id=\"mwA5I\">longganisa (local sausage) (<i id=\"mwA5M\">lawng-gah-NEE-sah</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA5Q\">cheese</dt>",
+      "translation": "<dd id=\"mwA5U\">keso (<i id=\"mwA5Y\">KEH-saw</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA5c\">eggs</dt>",
+      "translation": "<dd id=\"mwA5g\">itlog (<i id=\"mwA5k\">eet-LAWG</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA5o\">salad</dt>",
+      "translation": "<dd id=\"mwA5s\">ensalada (<i id=\"mwA5w\">ehn-sah-LAH-dah</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA50\">corn</dt>",
+      "translation": "<dd id=\"mwA54\">mais (<i id=\"mwA58\">mah-EESS</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA6A\">(fresh) vegetables</dt>",
+      "translation": "<dd id=\"mwA6E\">(preskong) utan (<i id=\"mwA6I\">(PREHSS-kawng) OO-tahn</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA6M\">(fresh) fruit</dt>",
+      "translation": "<dd id=\"mwA6Q\">(preskong) prutas (<i id=\"mwA6U\">proo-TASS</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA6Y\">bread</dt>",
+      "translation": "<dd id=\"mwA6c\">tinapay (<i id=\"mwA6g\">tee-NAH-pigh</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA6k\">noodles</dt>",
+      "translation": "<dd id=\"mwA6o\">pansit (<i id=\"mwA6s\">pahn-SEET</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA6w\">rice</dt>",
+      "translation": "<dd id=\"mwA60\">kan-on (<i id=\"mwA64\">KAHN-awn</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA68\">beans</dt>",
+      "translation": "<dd id=\"mwA7A\">munggos (<i id=\"mwA7E\">MOONG-gawss</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA7I\">raw</dt>",
+      "translation": "<dd id=\"mwA7M\">hilaw (<i id=\"mwA7Q\">hee-LOW</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA7U\">cooked</dt>",
+      "translation": "<dd id=\"mwA7Y\">luto (<i id=\"mwA7c\">LOO-toh</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA7g\">fried</dt>",
+      "translation": "<dd id=\"mwA7k\">prito (<i id=\"mwA7o\">PREE-taw</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA7s\">fried chicken/fish/egg</dt>",
+      "translation": "<dd id=\"mwA7w\">pritong manok/isda/itlog (<i id=\"mwA70\">PREE-tawng mah-NAWCK/EESS-dah/eet-lawg</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA74\">grilled/roasted</dt>",
+      "translation": "<dd id=\"mwA78\">inihaw (<i id=\"mwA8A\">ee-NEE-how</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA8E\">boiled</dt>",
+      "translation": "<dd id=\"mwA8I\">nilaga (<i id=\"mwA8M\">nee-LAH-gah</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA8Q\">salt</dt>",
+      "translation": "<dd id=\"mwA8U\">asin (<i id=\"mwA8Y\">ah-SEEN</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA8c\">sugar</dt>",
+      "translation": "<dd id=\"mwA8g\">asukar (<i id=\"mwA8k\">ah-SOO-kahr</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA8o\">cooking oil</dt>",
+      "translation": "<dd id=\"mwA8s\">mantika (<i id=\"mwA8w\">mahn-TEE-kah</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA80\">garlic</dt>",
+      "translation": "<dd id=\"mwA84\">ahos (<i id=\"mwA88\">ah-HAWSS</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA9A\">onion</dt>",
+      "translation": "<dd id=\"mwA9E\">sibuyas (<i id=\"mwA9I\">see-BOO-yahss</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA9M\">black pepper</dt>",
+      "translation": "<dd id=\"mwA9Q\">paminta (<i id=\"mwA9U\">pah-MEEN-tah</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA9Y\">soy sauce</dt>",
+      "translation": "<dd id=\"mwA9c\">toyo(<i id=\"mwA9g\">TAW-yaw</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA9k\">butter</dt>",
+      "translation": "<dd id=\"mwA9o\">margarina (<i id=\"mwA9s\">mahr-gah-REE-nah</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA9w\">Can/May I have a glass of _____?</dt>",
+      "translation": "<dd id=\"mwA90\">Naa moy usa ka baso na _____? (<i id=\"mwA94\">nah-AH moi oo-SAH kah BAH-saw nah _____?</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA98\">Can/May I have a cup of _____?</dt>",
+      "translation": "<dd id=\"mwA-A\">Naa moy usa ka tasa na _____? (<i id=\"mwA-E\">nah-AH moi oo-SAH kah TAH-sah nah _____?</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA-I\">Can/May I have a bottle of _____?</dt>",
+      "translation": "<dd id=\"mwA-M\">Naa moy usa ka botelya na _____? (<i id=\"mwA-Q\">nah-AH moi oo-SAH kah baw-TEHLL-yah nah ____?</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA-U\">coffee</dt>",
+      "translation": "<dd id=\"mwA-Y\">kape (<i id=\"mwA-c\">kah-PEH</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA-g\">tea (<i id=\"mwA-k\">drink</i>)</dt>",
+      "translation": "<dd id=\"mwA-o\">tsaa (<i id=\"mwA-s\">chah AH</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA-w\">chocolate</dt>",
+      "translation": "<dd id=\"mwA-0\">tsokolate (<i id=\"mwA-4\">chaw-kaw-LAH-teh</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA-8\">ice</dt>",
+      "translation": "<dd id=\"mwA_A\">yelo (<i id=\"mwA_E\">YEH-law</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA_I\">juice</dt>",
+      "translation": "<dd id=\"mwA_M\">duga (<i id=\"mwA_Q\">DOO-gah</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA_U\">water</dt>",
+      "translation": "<dd id=\"mwA_Y\">tubig (<i id=\"mwA_c\">TOO-bihg</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA_g\">beer</dt>",
+      "translation": "<dd id=\"mwA_k\">serbesa (<i id=\"mwA_o\">sehr-BEH-sah</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA_s\">dessert</dt>",
+      "translation": "<dd id=\"mwA_w\">siragana (<i id=\"mwA_0\">see-rah-GAH-nah</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwA_4\">Excuse me, waiter? (<i id=\"mwA_8\">getting attention of server</i>)</dt>",
+      "translation": "<dd id=\"mwBAA\">Ekskiyus ko, witer? (<i id=\"mwBAE\">EHKSS-kyooss kaw, WEE-tehr?</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwBAI\">I'm finished/done.</dt>",
+      "translation": "<dd id=\"mwBAM\">Humana na ko ug kaon. (<i id=\"mwBAQ\">hoo-MAH-nah kaw oog KAH-awn</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwBAU\">It was delicious.</dt>",
+      "translation": "<dd id=\"mwBAY\">Lami ang pagkaon (<i id=\"mwBAc\">lah-MEE' ahng pahg-KAH awn</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwBAg\">Please clear the plates.</dt>",
+      "translation": "<dd id=\"mwBAk\">Palihug kuhai ang mga plato. (<i id=\"mwBAo\">pah-LEE-hoog koo-HAH-ee ahng mgah PLAH-toh</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwBAs\">Can I get the bill, please.</dt>",
+      "translation": "<dd id=\"mwBAw\">Mokuha ko ug bill, palihug. (<i id=\"mwBA0\">moh-KOO-hah koh oog beel, pah-LEE-hoog</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwBBA\">Do you have this in my size?</dt>",
+      "translation": "<dd id=\"mwBBE\">Naa moy maigo sa ako ani?  (<i id=\"mwBBI\">NAH-ah mawy mah-EE-gaw sah AH-kaw AH-nee?</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBBM\">How much is this?</dt>",
+      "translation": "<dd id=\"mwBBQ\">Tagpila ni?  (<i id=\"mwBBU\">tahg-PEE-lah nee?</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBBY\">That's too expensive.</dt>",
+      "translation": "<dd id=\"mwBBc\">Mahal ra kaayo na.  (<i id=\"mwBBg\">mah-HAHLL rah kah-AH-yaw nah</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBBk\">Would you take _____?</dt>",
+      "translation": "<dd id=\"mwBBo\">Modawat mo og ____?  (<i id=\"mwBBs\">maw-DAH-waht maw awg ____?</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBBw\">expensive</dt>",
+      "translation": "<dd id=\"mwBB0\">mahal  (<i id=\"mwBB4\">mah-HALL</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBB8\">cheap</dt>",
+      "translation": "<dd id=\"mwBCA\">barato  (<i id=\"mwBCE\">bah-RAH-taw</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBCI\">I can't afford it.</dt>",
+      "translation": "<dd id=\"mwBCM\">Di maigo sapi ana.  (<i id=\"mwBCQ\">dee' mah-ee-GAW sah-pee AH-nah</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBCU\">I don't want it.</dt>",
+      "translation": "<dd id=\"mwBCY\">Di ko ana.  (<i id=\"mwBCc\">dee' kaw AH-nah' </i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBCg\">You're cheating me.</dt>",
+      "translation": "<dd id=\"mwBCk\">Gilimbongan ko nimo.  (<i id=\"mwBCo\">gee-leem-BAW-ngahn kaw NEE-maw</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBCs\">I'm not interested.</dt>",
+      "translation": "<dd id=\"mwBCw\">Di ko interisado.  (<i id=\"mwBC0\">dee' kaw ihn-teh-ree-SAH-daw</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBC4\">OK, I'll take it.</dt>",
+      "translation": "<dd id=\"mwBC8\">Ok, kuhaon na nako.  (<i id=\"mwBDA\">OH-kay, koo-HAH-awn nah' NAH-kaw' </i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBDE\">Can I have a bag?</dt>",
+      "translation": "<dd id=\"mwBDI\">Puydi mangayo og bag?  (<i id=\"mwBDM\">POOI-dee mah-NGAH-yaw' awg bahg?</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBDQ\">Do you ship (overseas)?</dt>",
+      "translation": "<dd id=\"mwBDU\">Mobaligya bag mopadala mos layo? (<i id=\"mwBDY\">maw-bah-lihg-YAH bahg maw-pah-dah-LAH mawss LAH-yaw</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBDc\">I need...</dt>",
+      "translation": "<dd id=\"mwBDg\">Kinahanglan nako og...  (<i id=\"mwBDk\">kih-nah-HAHNG-lahn NAH-kaw' awg...</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBDo\">...toothpaste.</dt>",
+      "translation": "<dd id=\"mwBDs\">...toothpaste (<i id=\"mwBDw\">tooth-PAYST</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBD0\">...a toothbrush.</dt>",
+      "translation": "<dd id=\"mwBD4\">...sipilyo (<i id=\"mwBD8\">see-PEELL-yaw</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBEA\">...tampons.</dt>",
+      "translation": "<dd id=\"mwBEE\">...tampons (<i id=\"mwBEI\">tahm-PAWNSS</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBEM\">...soap.</dt>",
+      "translation": "<dd id=\"mwBEQ\">...sabon  (<i id=\"mwBEU\">sah-BAWN</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBEY\">...shampoo.</dt>",
+      "translation": "<dd id=\"mwBEc\">...shampoo (<i id=\"mwBEg\">shahm-POO</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBEk\">...pain reliever. (<i id=\"mwBEo\">e.g., aspirin or ibuprofen</i>)</dt>",
+      "translation": "<dd id=\"mwBEs\">...pampawa sa kasakit  (<i id=\"mwBEw\">pahm-pah-WAH' sah kah-sah-KEET</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBE0\">...cold medicine.</dt>",
+      "translation": "<dd id=\"mwBE4\">...tambal para sa sip-on  (<i id=\"mwBE8\">TAHM-bahll PAH-rah sah SIHP-awn</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBFA\">...stomach medicine.</dt>",
+      "translation": "<dd id=\"mwBFE\">...tambal para sa sakit sa tiyan (<i id=\"mwBFI\">tahm-BAHLL PAH-rah sah sah-KIHT sah chahn</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBFM\">...a razor.</dt>",
+      "translation": "<dd id=\"mwBFQ\">...pang-ahit  (<i id=\"mwBFU\">pahng-AH-hiht</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBFY\">...an umbrella.</dt>",
+      "translation": "<dd id=\"mwBFc\">...payong  (<i id=\"mwBFg\">PAH-yawng</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBFk\">...sunblock lotion.</dt>",
+      "translation": "<dd id=\"mwBFo\">...sunblock lotion  (<i id=\"mwBFs\">SAHN-blahck LOH-shawn</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBFw\">...a postcard.</dt>",
+      "translation": "<dd id=\"mwBF0\">...postcard  (<i id=\"mwBF4\">POHST-kahrd</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBF8\">...postage stamps.</dt>",
+      "translation": "<dd id=\"mwBGA\">...postage stamps (<i id=\"mwBGE\">POHSS-tihj stahmpss</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBGI\">...batteries.</dt>",
+      "translation": "<dd id=\"mwBGM\">...pila  (<i id=\"mwBGQ\">PEE-lah</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBGU\">...writing paper.</dt>",
+      "translation": "<dd id=\"mwBGY\">...papel  (<i id=\"mwBGc\">pah-PEHLL</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBGg\">...a pen.</dt>",
+      "translation": "<dd id=\"mwBGk\">...panurat  (<i id=\"mwBGo\">pah-NOO-raht</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBGs\">...English-language books.</dt>",
+      "translation": "<dd id=\"mwBGw\">...libro nga Ininggles  (<i id=\"mwBG0\">lihb-RAW ngah ee-neeng-GLEHSS</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBG4\">...English-language magazines.</dt>",
+      "translation": "<dd id=\"mwBG8\">...magasin nga Ininggles  (<i id=\"mwBHA\">MAH-gah-seen ngah ee-neeng-GLEHSS</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBHE\">...an English-language newspaper.</dt>",
+      "translation": "<dd id=\"mwBHI\">...diaryo nga Ininggles  (<i id=\"mwBHM\">JAHR-yaw ngah ee-neeng-GLEHSS</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBHQ\">...an English-Cebuano dictionary.</dt>",
+      "translation": "<dd id=\"mwBHU\">...diksyonaryo ngah Ininggles-Sinugboanon (<i id=\"mwBHY\">dihck-syaw-NAHR-yaw ee-neeng-GLEHSS-sih-noog-boo-AH-nawn</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwBHo\">I want to rent a car.</dt>",
+      "translation": "<dd id=\"mwBHs\">Gusto ko moabang ug awto. (<i id=\"mwBHw\">GOOSS-taw kaw maw-ah-BAHNG oog OW-taw</i>)</dd>",
+      "category": "driving",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Driving"
+    },
+    {
+      "phrase": "<dt id=\"mwBH0\">Can I get insurance?</dt>",
+      "translation": "<dd id=\"mwBH4\">Makuha ba nako ang peneguro? (<i id=\"mwBH8\">mah-KOO-hah bah NAH-kaw ahng peh-neh-GOO-raw?</i>)</dd>",
+      "category": "driving",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Driving"
+    },
+    {
+      "phrase": "<dt id=\"mwBIA\">no parking</dt>",
+      "translation": "<dd id=\"mwBIE\">ginadili pagparada (<i id=\"mwBII\">gee-nah-DEE-lee pahg-pah-RAH-dah</i>)</dd>",
+      "category": "driving",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Driving"
+    },
+    {
+      "phrase": "<dt id=\"mwBIM\">petrol station</dt>",
+      "translation": "<dd id=\"mwBIQ\">gasolinahan (<i id=\"mwBIU\">gah-saw-lee-nah-HAHN</i>)</dd>",
+      "category": "driving",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Driving"
+    },
+    {
+      "phrase": "<dt id=\"mwBIY\">gas/petrol</dt>",
+      "translation": "<dd id=\"mwBIc\">gasolina (<i id=\"mwBIg\">gah-saw-LEE-nah</i>)</dd>",
+      "category": "driving",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Driving"
+    },
+    {
+      "phrase": "<dt id=\"mwBIk\">diesel</dt>",
+      "translation": "<dd id=\"mwBIo\">diesel (<i id=\"mwBIs\">DEE-sehll</i>)</dd>",
+      "category": "driving",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Driving"
+    },
+    {
+      "phrase": "<dt id=\"mwBI4\">I haven't done anything wrong.</dt>",
+      "translation": "<dd id=\"mwBI8\">Wala man ko gibuhat nga dautan. (<i id=\"mwBJA\">wah-LAH mahn kaw gee-BOO-haht ngah dah-OO-tahn</i>)</dd>",
+      "category": "authority",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Authority"
+    },
+    {
+      "phrase": "<dt id=\"mwBJE\">It was a misunderstanding.</dt>",
+      "translation": "<dd id=\"mwBJI\">Wala to nagkasinabot. (<i id=\"mwBJM\">wah-LAH taw nahg-kah-see-NAH-bawt</i>)</dd>",
+      "category": "authority",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Authority"
+    },
+    {
+      "phrase": "<dt id=\"mwBJQ\">Where are you taking me?</dt>",
+      "translation": "<dd id=\"mwBJU\">Asa ko nimo dad-on? (<i id=\"mwBJY\">AH-sah kaw NEE-maw DAD-ohn?</i>)</dd>",
+      "category": "authority",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Authority"
+    },
+    {
+      "phrase": "<dt id=\"mwBJc\">Am I under arrest?</dt>",
+      "translation": "<dd id=\"mwBJg\">Dakpan na ba ko? (<i id=\"mwBJk\">DAHCK-pahn nah bah kaw?</i>)</dd>",
+      "category": "authority",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Authority"
+    },
+    {
+      "phrase": "<dt id=\"mwBJo\">Where's the warrant?</dt>",
+      "translation": "<dd id=\"mwBJs\">Asa ang warrant? (<i id=\"mwBJw\">AH-sah ahng WAH-rahnt?</i>)</dd>",
+      "category": "authority",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Authority"
+    },
+    {
+      "phrase": "<dt id=\"mwBJ0\">I am an American/Australian/British/Canadian citizen.</dt>",
+      "translation": "<dd id=\"mwBJ4\">Ako ang usa ka Amerikano/Australyano/Britano/Kanadyano. (<i id=\"mwBJ8\">ah-KAW ahng oo-SAH kah ah-meh-REE-kah-naw/owss-trahll-YAH-naw/bree-TAH-naw/kah-nahd-YAH-naw</i>)</dd>",
+      "category": "authority",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Authority"
+    },
+    {
+      "phrase": "<dt id=\"mwBKA\">I want to talk to the American/Australian/British/Canadian embassy/consulate.</dt>",
+      "translation": "<dd id=\"mwBKE\">Gusto ko makaistorya sa Amerikano/Australyano/Britano/Kanadyano embahada/konsulado. (<i id=\"mwBKI\">gooss-TAW kaw mah-kah-eess-TAW-ryah sah ah-meh-REE-kah-naw/owss-trahll-YAH-naw/bree-TAH-naw/kah-nahd-YAH-naw ehm-bah-HAH-dah/kawn-soo-LAH-daw</i>)</dd>",
+      "category": "authority",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Authority"
+    },
+    {
+      "phrase": "<dt id=\"mwBKM\">I want to talk to a lawyer.</dt>",
+      "translation": "<dd id=\"mwBKQ\">Gusto ko makaistorya sa abogado.  (<i id=\"mwBKU\">gooss-TAW kaw mah-kah-eess-TAW-ryah sah ah-boo-GAH-daw</i>)</dd>",
+      "category": "authority",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Authority"
+    },
+    {
+      "phrase": "<dt id=\"mwBKY\">Can I just pay a fine now?</dt>",
+      "translation": "<dd id=\"mwBKc\">Mahimo mobayad na lang ko ug multa? (<i id=\"mwBKg\">mah-HEE-maw moo-BAH-yahd nah lahng kaw oog MOOLL-tah?</i>)</dd>",
+      "category": "authority",
+      "source": "https://en.wikivoyage.org/wiki/Cebuano_phrasebook#Authority"
+    }
+  ]
+}

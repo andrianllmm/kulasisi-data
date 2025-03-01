@@ -1,0 +1,1644 @@
+{
+  "meta": {
+    "lang": "eng",
+    "translation_lang": "hil",
+    "date": "2025-03-01",
+    "total_entries": 272,
+    "source_title": "Hiligaynon Wikivoyage Phrasebook",
+    "source_link": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook"
+  },
+  "entries": [
+    {
+      "phrase": "<dt id=\"mwYQ\">Hello.</dt>",
+      "translation": "<dd id=\"mwYg\">Hello. (<i id=\"mwYw\">Same as in English</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwZA\">Hello. (<i id=\"mwZQ\">informal</i>)</dt>",
+      "translation": "<dd id=\"mwZg\">Hi. (<i id=\"mwZw\">Same as in English</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwaA\">How are you?</dt>",
+      "translation": "<dd id=\"mwaQ\">Kumusta ka na? (<i id=\"mwag\">koo-MOOSS-tah KAH nah?</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwaw\">Fine, thank you.</dt>",
+      "translation": "<dd id=\"mwbA\">Maayo man ako. Salamat. (<i id=\"mwbQ\">mah-AH-yaw man ah-KAW sah-LAH-maht</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwbg\">What is your name?</dt>",
+      "translation": "<dd id=\"mwbw\">Ano ang pangalan mo? (<i id=\"mwcA\">ah-NAW ahng pah-NGAH-lahn maw?</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwcQ\">My name is ______ .</dt>",
+      "translation": "<dd id=\"mwcg\">Ang pangalan ko ay si ______ . (<i id=\"mwcw\">ahng pah-NGAH-lahn kaw igh see ______.</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwdA\">Nice to meet you.</dt>",
+      "translation": "<dd id=\"mwdQ\">Nalipay ako makilala ka. (<i id=\"mwdg\">nah-LEE-pigh ah-KAW mah-kee-LAH-lah kah</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwdw\">Please.</dt>",
+      "translation": "<dd id=\"mweA\">Palihog. (<i id=\"mweQ\">pah-LEE-hawg</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mweg\">Thank you.</dt>",
+      "translation": "<dd id=\"mwew\">Salamat. (<i id=\"mwfA\">sah-LAH-maht</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwfQ\">You're welcome.</dt>",
+      "translation": "<dd id=\"mwfg\">Wala sang anuman. (<i id=\"mwfw\">wah-LAH sahng ah-naw-MAHN</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwgA\">Yes.</dt>",
+      "translation": "<dd id=\"mwgQ\">Huo. (<i id=\"mwgg\">HOO-aw</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwgw\">No.</dt>",
+      "translation": "<dd id=\"mwhA\">Indi. (<i id=\"mwhQ\">ihn-DEE</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwhg\">Excuse me. (<i id=\"mwhw\">getting attention</i>)</dt>",
+      "translation": "<dd id=\"mwiA\">Palihog sang madali lang. (<i id=\"mwiQ\">pah-LEE-hawg sahng mah-DAH-lee lahng</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwig\">I'm sorry.</dt>",
+      "translation": "<dd id=\"mwiw\">Pasensyaha lang ako. (<i id=\"mwjA\">pah-SEHN-shah-hah lang akoh</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwjQ\">Goodbye</dt>",
+      "translation": "<dd id=\"mwjg\">Asta sa liwat. (<i id=\"mwjw\">ahss-TAH sah lee-WAHT</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwkA\">Goodbye (<i id=\"mwkQ\">informal</i>)</dt>",
+      "translation": "<dd id=\"mwkg\">Bai Bai. (<i id=\"mwkw\">Bye Bye</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwlA\">I can't speak <i id=\"mwlQ\">Illongo</i> well.</dt>",
+      "translation": "<dd id=\"mwlg\">Indi ako makahambal sang Illongo sang maayu. (<i id=\"mwlw\">ihn-DEE ah-KAW mah-kah-hahm-BAHLL sahng ih-LAWNG-gaw sahng mah-AH-yoo</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwmA\">Do you speak English?</dt>",
+      "translation": "<dd id=\"mwmQ\">Makahambal ka sang Ingles? (<i id=\"mwmg\">mah-kah-HAHM-bahll kah sahng EENG-glehss?</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwmw\">Is there someone here who speaks English?</dt>",
+      "translation": "<dd id=\"mwnA\">May ari diri makahambal sa Ingles (<i id=\"mwnQ\">migh ah-REE dee-REE mah-kah-hahm-BAHLL sah eeng-LEHSS?</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwng\">Help!</dt>",
+      "translation": "<dd id=\"mwnw\">Bulig! (<i id=\"mwoA\">BOO-lihg!</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwoQ\">Look out!</dt>",
+      "translation": "<dd id=\"mwog\">Lantaw-a sang maayo! (<i id=\"mwow\">lahn-TOW-ah sahng mah-AH-yaw!</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwpA\">Good morning.</dt>",
+      "translation": "<dd id=\"mwpQ\">Maayo nga aga. (<i id=\"mwpg\">mah-AH-yaw ngah AH-gah</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwpw\">Good afternoon.</dt>",
+      "translation": "<dd id=\"mwqA\">Maayo nga hapon. (<i id=\"mwqQ\">mah-AH-yaw ngah HAH-pawn</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwqg\">Good evening.</dt>",
+      "translation": "<dd id=\"mwqw\">Maayo nga gab-i. (<i id=\"mwrA\">mah-AH-yaw ngah gahb-EE</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwrQ\">Good night (<i id=\"mwrg\">to sleep</i>)</dt>",
+      "translation": "<dd id=\"mwrw\">Tulog na 'ta. (<i id=\"mwsA\">TOO-lawg nah tah</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwsQ\">I don't understand.</dt>",
+      "translation": "<dd id=\"mwsg\">Indi ko maintindihan. (<i id=\"mwsw\">ihn-DEE kaw mah-ihn-tihn-dee-HAHN</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwtA\">Where is the toilet?</dt>",
+      "translation": "<dd id=\"mwtQ\">Diin ang kasilyas? (<i id=\"mwtg\">dih-EEN ahng kah-SIHLL-yas?</i>)</dd>",
+      "category": "basics",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Basics"
+    },
+    {
+      "phrase": "<dt id=\"mwuQ\">Leave me alone.</dt>",
+      "translation": "<dd id=\"mwug\">Pabay-i ako. (<i id=\"mwuw\">pah-bigh-EE ah-KAW</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mwvA\">Don't touch me!</dt>",
+      "translation": "<dd id=\"mwvQ\">Indi ko pagtanduga! (<i id=\"mwvg\">ihn-DEE' kaw pahg-tahn-doo-GAH</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mwvw\">Police!</dt>",
+      "translation": "<dd id=\"mwwA\">Pulis! (<i id=\"mwwQ\">poo-LEESS!</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mwwg\">I'll call the police.</dt>",
+      "translation": "<dd id=\"mwww\">Taw'gon ko ang pulis. (<i id=\"mwxA\">TOW-gawn kaw ahng poo-LEESS</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mwxQ\">Stop! Thief!</dt>",
+      "translation": "<dd id=\"mwxg\">Mag-untat ka! Kawatan! (<i id=\"mwxw\">mahg-oon-TAHT kah! kah-wah-TAHN!</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mwyA\">I need your help.</dt>",
+      "translation": "<dd id=\"mwyQ\">Kinahanglan ko sing bulig mo. (<i id=\"mwyg\">kee-nah-hahng-LAHN kaw sihng BOO-lihg maw</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mwyw\">I'm lost.</dt>",
+      "translation": "<dd id=\"mwzA\">Nagtalang ako. (<i id=\"mwzQ\">nahg-TAH-lahng ah-KAW</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mwzg\">I lost my bag.</dt>",
+      "translation": "<dd id=\"mwzw\">Nadula ko ang bag ko. (<i id=\"mw0A\">nah-DOO-lah' kaw ahng bahg kaw</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mw0Q\">I lost my wallet.</dt>",
+      "translation": "<dd id=\"mw0g\">Nadula ko ang wallet ko. (<i id=\"mw0w\">nah-DOO-lah' kaw ahng WAH-leht kaw</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mw1A\">I'm sick.</dt>",
+      "translation": "<dd id=\"mw1Q\">Nagamasakit ako. (<i id=\"mw1g\">nah-GAH-mah-sah-KIHT ah-KAW.</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mw1w\">I need a doctor.</dt>",
+      "translation": "<dd id=\"mw2A\">Kinahanglan ko sing doktor. (<i id=\"mw2Q\">kee-nah-hahng-LAHN kaw sihng dawck-TAWR</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mw2g\">Can I borrow your phone?</dt>",
+      "translation": "<dd id=\"mw2w\">Pwede hulamon ang telepono mo? (<i id=\"mw3A\">PWEH-deh hoo-lah-MAWN ahng teh-LEH-poo-naw maw?</i>)</dd>",
+      "category": "problems",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Problems"
+    },
+    {
+      "phrase": "<dt id=\"mw3w\">1</dt>",
+      "translation": "<dd id=\"mw4A\">isa (<i id=\"mw4Q\">ee-SAH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mw4g\">2</dt>",
+      "translation": "<dd id=\"mw4w\">duha (<i id=\"mw5A\">doo-HAH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mw5Q\">3</dt>",
+      "translation": "<dd id=\"mw5g\">tatlo (<i id=\"mw5w\">taht-LAW</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mw6A\">4</dt>",
+      "translation": "<dd id=\"mw6Q\">apat (<i id=\"mw6g\">ah-PAHT</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mw6w\">5</dt>",
+      "translation": "<dd id=\"mw7A\">lima (<i id=\"mw7Q\">lee-MAH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mw7g\">6</dt>",
+      "translation": "<dd id=\"mw7w\">anum (<i id=\"mw8A\">ah-NAWM</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mw8Q\">7</dt>",
+      "translation": "<dd id=\"mw8g\">pito (<i id=\"mw8w\">pee-TAW</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mw9A\">8</dt>",
+      "translation": "<dd id=\"mw9Q\">walo (<i id=\"mw9g\">wah-LAW</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mw9w\">9</dt>",
+      "translation": "<dd id=\"mw-A\">siyam (<i id=\"mw-Q\">shahm</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mw-g\">10</dt>",
+      "translation": "<dd id=\"mw-w\">pulo (<i id=\"mw_A\">POO-law</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mw_Q\">11</dt>",
+      "translation": "<dd id=\"mw_g\">napulo kag isa (<i id=\"mw_w\">nah-POO-loog ee-SAH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAQA\">12</dt>",
+      "translation": "<dd id=\"mwAQE\">napulo kag duha (<i id=\"mwAQI\">nah-POO-loog doo-HAH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAQM\">13</dt>",
+      "translation": "<dd id=\"mwAQQ\">napulo kag tatlo (<i id=\"mwAQU\">nah-POO-loog taht-LAW</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAQY\">14</dt>",
+      "translation": "<dd id=\"mwAQc\">napulo kag apat (<i id=\"mwAQg\">nah-POO-loog ah-PAHT</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAQk\">15</dt>",
+      "translation": "<dd id=\"mwAQo\">napulo kag lima (<i id=\"mwAQs\">nah-POO-loog lee-MAH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAQw\">16</dt>",
+      "translation": "<dd id=\"mwAQ0\">napulo kag anom (<i id=\"mwAQ4\">nah-POO-loog ah-NAWM</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAQ8\">17</dt>",
+      "translation": "<dd id=\"mwARA\">napulo kag pito (<i id=\"mwARE\">nah-POO-loog pee-TAW</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwARI\">18</dt>",
+      "translation": "<dd id=\"mwARM\">napulo kag walo (<i id=\"mwARQ\">nah-POO-loog wah-LAW</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwARU\">19</dt>",
+      "translation": "<dd id=\"mwARY\">napulo kag siyam (<i id=\"mwARc\">nah-POO-loog shahm</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwARg\">20</dt>",
+      "translation": "<dd id=\"mwARk\">duha ka napulo (<i id=\"mwARo\">doo-HAH kah nah-POO-law</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwARs\">21</dt>",
+      "translation": "<dd id=\"mwARw\">duha ka napulo'g isa  (<i id=\"mwAR0\">doo-HAH kah nah-POO-lawg ee-SAH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAR4\">22</dt>",
+      "translation": "<dd id=\"mwAR8\">duha ka napulo'g duha  (<i id=\"mwASA\">doo-HAH kah nah-POO-lawg doo-HAH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwASE\">23</dt>",
+      "translation": "<dd id=\"mwASI\">duha ka napulo'g tatlo  (<i id=\"mwASM\">doo-HAH kah nah-POO-lawg taht-LAW</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwASQ\">30</dt>",
+      "translation": "<dd id=\"mwASU\">tatlo ka napulo (<i id=\"mwASY\">taht-LAW kah nah-POO-law</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwASc\">40</dt>",
+      "translation": "<dd id=\"mwASg\">apat ka napulo  (<i id=\"mwASk\">ah-PAHT kah nah-POO-law</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwASo\">50</dt>",
+      "translation": "<dd id=\"mwASs\">lima ka napulo (<i id=\"mwASw\">lee-MAH kah nah-POO-law</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAS0\">60</dt>",
+      "translation": "<dd id=\"mwAS4\">anom ka napulo  (<i id=\"mwAS8\">ah-NAW kah nah-POO-law </i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwATA\">70</dt>",
+      "translation": "<dd id=\"mwATE\">pito ka napulo  (<i id=\"mwATI\">pee-TAW kah nah-POO-law</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwATM\">80</dt>",
+      "translation": "<dd id=\"mwATQ\">walo ka pulo (<i id=\"mwATU\">wah-LAW kah POO-law</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwATY\">90</dt>",
+      "translation": "<dd id=\"mwATc\">siyam ka pulo (<i id=\"mwATg\">shahm kah POO-law</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwATk\">100</dt>",
+      "translation": "<dd id=\"mwATo\">isa ka gatos (<i id=\"mwATs\">ee-SAH kah gah-TAWSS</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwATw\">200</dt>",
+      "translation": "<dd id=\"mwAT0\">duha ka gatos  (<i id=\"mwAT4\">doo-HAH kah gah-TAWSS</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAT8\">300</dt>",
+      "translation": "<dd id=\"mwAUA\">tatlo ka gatos  (<i id=\"mwAUE\">taht-LAW kah gah-TAWSS</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAUI\">1,000</dt>",
+      "translation": "<dd id=\"mwAUM\">isa ka libo (<i id=\"mwAUQ\">ee-SAH kah LEE-baw</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAUU\">2,000</dt>",
+      "translation": "<dd id=\"mwAUY\">duha ka libo  (<i id=\"mwAUc\">doo-HAH kah LEE-baw</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAUg\">10,000</dt>",
+      "translation": "<dd id=\"mwAUk\">laksa  (<i id=\"mwAUo\">lahck-SAH</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAUs\">1,000,000</dt>",
+      "translation": "<dd id=\"mwAUw\">milyon (<i id=\"mwAU0\">mihll-YAWN</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAU4\">1,000,000,000</dt>",
+      "translation": "<dd id=\"mwAU8\">bilyon  (<i id=\"mwAVA\">bihll-YAWN</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAVE\">1,000,000,000,000</dt>",
+      "translation": "<dd id=\"mwAVI\">trilyon  (<i id=\"mwAVM\">trihll-YAWN</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAVQ\">number _____ (train, bus, etc.)</dt>",
+      "translation": "<dd id=\"mwAVU\">numero sang tren, bus (<i id=\"mwAVY\">NOO-meh-raw sahng trehn, booss</i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAVc\">half</dt>",
+      "translation": "<dd id=\"mwAVg\">katungâ (<i id=\"mwAVk\">kah-too-NGAH' </i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAVo\">less</dt>",
+      "translation": "<dd id=\"mwAVs\">diotay (<i id=\"mwAVw\">JOO-tigh </i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAV0\">more</dt>",
+      "translation": "<dd id=\"mwAV4\">madamo (<i id=\"mwAV8\">mah-DAH-maw' </i>)</dd>",
+      "category": "numbers",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Numbers"
+    },
+    {
+      "phrase": "<dt id=\"mwAWI\">now</dt>",
+      "translation": "<dd id=\"mwAWM\">subong (<i id=\"mwAWQ\">soo-BAWNG</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAWU\">later</dt>",
+      "translation": "<dd id=\"mwAWY\">karun (<i id=\"mwAWc\">kah-RAWN</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAWg\">before</dt>",
+      "translation": "<dd id=\"mwAWk\">sang-una (<i id=\"mwAWo\">sahng-OO-nah</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAWs\">morning</dt>",
+      "translation": "<dd id=\"mwAWw\">aga (<i id=\"mwAW0\">AH-gah</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAW4\">afternoon</dt>",
+      "translation": "<dd id=\"mwAW8\">hapon (<i id=\"mwAXA\">HAH-pawn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAXE\">evening</dt>",
+      "translation": "<dd id=\"mwAXI\">gab-i (<i id=\"mwAXM\">gahb-EE</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAXQ\">night</dt>",
+      "translation": "<dd id=\"mwAXU\">gab-i (<i id=\"mwAXY\">gahb-EE</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAXk\">one o'clock AM</dt>",
+      "translation": "<dd id=\"mwAXo\">a la una sang kaagahun  (<i id=\"mwAXs\">ah lah OO-nah sahng kah-ah-GAH-hoon</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAXw\">two o'clock AM</dt>",
+      "translation": "<dd id=\"mwAX0\">a las dos sang kaagahun (<i id=\"mwAX4\">ah lahss dawss sahng kah-ah-GAH-hoon</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAX8\">noon</dt>",
+      "translation": "<dd id=\"mwAYA\">udto (<i id=\"mwAYE\">ood-TAW</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAYI\">one o'clock PM</dt>",
+      "translation": "<dd id=\"mwAYM\">a la una sang hapon (<i id=\"mwAYQ\">ah lah OO-nah sahng HAH-pawn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAYU\">two o'clock PM</dt>",
+      "translation": "<dd id=\"mwAYY\">a las dos sang hapon  (<i id=\"mwAYc\">ah lahss dawss sahng HAH-pawn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAYg\">midnight</dt>",
+      "translation": "<dd id=\"mwAYk\">tungang gab-i  (<i id=\"mwAYo\">too-NGAHNG gahb-EE</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAY0\">___ second(s)</dt>",
+      "translation": "<dd id=\"mwAY4\">___ na ka sekundo (<i id=\"mwAY8\">___ nah kah seh-KOON-daw</i>)</dd>",
+      "category": "durations",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Durations"
+    },
+    {
+      "phrase": "<dt id=\"mwAZA\">___ minute(s)</dt>",
+      "translation": "<dd id=\"mwAZE\">___ na ka minuto (<i id=\"mwAZI\">___ nah kah meh-NOO-taw</i>)</dd>",
+      "category": "durations",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Durations"
+    },
+    {
+      "phrase": "<dt id=\"mwAZM\">___ hour(s)</dt>",
+      "translation": "<dd id=\"mwAZQ\">___ na ka oras (<i id=\"mwAZU\">___ nah kah AW-rahss</i>)</dd>",
+      "category": "durations",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Durations"
+    },
+    {
+      "phrase": "<dt id=\"mwAZY\">___ day(s)</dt>",
+      "translation": "<dd id=\"mwAZc\">___ na ka adlaw (<i id=\"mwAZg\">___ nah kah ahd-LOW</i>)</dd>",
+      "category": "durations",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Durations"
+    },
+    {
+      "phrase": "<dt id=\"mwAZk\">___ week(s)</dt>",
+      "translation": "<dd id=\"mwAZo\">___ na ka semana (<i id=\"mwAZs\">___ nah kah seh-MAH-nah</i>)</dd>",
+      "category": "durations",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Durations"
+    },
+    {
+      "phrase": "<dt id=\"mwAZw\">___ month(s)</dt>",
+      "translation": "<dd id=\"mwAZ0\">___ na ka bulan (<i id=\"mwAZ4\">___ nah kah BOO-lahn</i>)</dd>",
+      "category": "durations",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Durations"
+    },
+    {
+      "phrase": "<dt id=\"mwAZ8\">___ year(s)</dt>",
+      "translation": "<dd id=\"mwAaA\">___ na ka tuig (<i id=\"mwAaE\">___ nah kah too-EEG</i>)</dd>",
+      "category": "durations",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Durations"
+    },
+    {
+      "phrase": "<dt id=\"mwAaQ\">today</dt>",
+      "translation": "<dd id=\"mwAaU\">subong nga adlaw (<i id=\"mwAaY\">soo-BAWNG ngah ahd-LOW</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAac\">yesterday</dt>",
+      "translation": "<dd id=\"mwAag\">kagapon (<i id=\"mwAak\">kah-GAH-pawn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAao\">tomorrow</dt>",
+      "translation": "<dd id=\"mwAas\">buwas (<i id=\"mwAaw\">boo-WAHSS</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAa0\">this week</dt>",
+      "translation": "<dd id=\"mwAa4\">subong nga semana (<i id=\"mwAa8\">soo-BAWNG ngah seh-MAH-nah</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAbA\">last week</dt>",
+      "translation": "<dd id=\"mwAbE\">sadto nga semana (<i id=\"mwAbI\">sahd-TAW ngah seh-MAH-nah</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAbM\">next week</dt>",
+      "translation": "<dd id=\"mwAbQ\">sunod nga semana (<i id=\"mwAbU\">soo-NAWD ngah seh-MAH-nah</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAbk\">Monday</dt>",
+      "translation": "<dd id=\"mwAbo\">Lunes (<i id=\"mwAbs\">LOO-nehss</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAbw\">Tuesday</dt>",
+      "translation": "<dd id=\"mwAb0\">Martes (<i id=\"mwAb4\">mahr-TEHSS</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAb8\">Wednesday</dt>",
+      "translation": "<dd id=\"mwAcA\">Miyerkoles (<i id=\"mwAcE\">MYEHR-koo-lehss</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAcI\">Thursday</dt>",
+      "translation": "<dd id=\"mwAcM\">Huwebes (<i id=\"mwAcQ\">hoo-WEH-behss</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAcU\">Friday</dt>",
+      "translation": "<dd id=\"mwAcY\">Biyernes (<i id=\"mwAcc\">BYEHR-nehss</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAcg\">Saturday</dt>",
+      "translation": "<dd id=\"mwAck\">Sabado (<i id=\"mwAco\">SAH-bah-daw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAcs\">Sunday</dt>",
+      "translation": "<dd id=\"mwAcw\">Domingo (<i id=\"mwAc0\">doo-MEENG-gaw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAdA\">January</dt>",
+      "translation": "<dd id=\"mwAdE\">Enero (<i id=\"mwAdI\">eh-NEH-raw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAdM\">February</dt>",
+      "translation": "<dd id=\"mwAdQ\">Pebrero (<i id=\"mwAdU\">pehb-REH-raw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAdY\">March</dt>",
+      "translation": "<dd id=\"mwAdc\">Marso (<i id=\"mwAdg\">mahr-SAW</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAdk\">April</dt>",
+      "translation": "<dd id=\"mwAdo\">Abril (<i id=\"mwAds\">ahb-REELL</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAdw\">May</dt>",
+      "translation": "<dd id=\"mwAd0\">Mayo (<i id=\"mwAd4\">MAH-yaw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAd8\">June</dt>",
+      "translation": "<dd id=\"mwAeA\">Hunyo (<i id=\"mwAeE\">HOON-yaw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAeI\">July</dt>",
+      "translation": "<dd id=\"mwAeM\">Hulyo (<i id=\"mwAeQ\">HOOLL-yaw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAeU\">August</dt>",
+      "translation": "<dd id=\"mwAeY\">Agosto (<i id=\"mwAec\">ah-GAWSS-taw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAeg\">September</dt>",
+      "translation": "<dd id=\"mwAek\">Septyembre (<i id=\"mwAeo\">seep-TYEHM-breh</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAes\">October</dt>",
+      "translation": "<dd id=\"mwAew\">Oktobre (<i id=\"mwAe0\">awck-TOO-breh</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAe4\">November</dt>",
+      "translation": "<dd id=\"mwAe8\">Nobiyembre (<i id=\"mwAfA\">nawb-YEHM-breh</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAfE\">December</dt>",
+      "translation": "<dd id=\"mwAfI\">Disyembre (<i id=\"mwAfM\">deess-YEHM-breh</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAf0\">How much is a ticket to _____?</dt>",
+      "translation": "<dd id=\"mwAf4\">Tagpila ang ticket pakadto sa ____?  (<i id=\"mwAf8\">tahg-PEE-lah ahng TEE-keht pah-kahd-TAW sah ____?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAgA\">One ticket to _____, please.</dt>",
+      "translation": "<dd id=\"mwAgE\">Isa ka ticket pakadto sa ____, palihog.  (<i id=\"mwAgI\">ee-SAH kah TEE-keht pah-kahd-TAW sah ____, pah-LEE-hawg</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAgM\">Where does this train/bus go?</dt>",
+      "translation": "<dd id=\"mwAgQ\">Diin pakadto ining tren/bus?  (<i id=\"mwAgU\">dee-EEN pah-kahd-TAW ee-NEENG trehn/booss?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAgY\">Where is the train/bus to _____?</dt>",
+      "translation": "<dd id=\"mwAgc\">Diin ang tren/bus nga pakadto sa ____? (<i id=\"mwAgg\">dee-EEN ahng trehn/booss ngah pah-KAHD-taw sah ____?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAgk\">Does this train/bus stop in _____?</dt>",
+      "translation": "<dd id=\"mwAgo\">Mapundo bala ining tren/bus sa ____? (<i id=\"mwAgs\">MAH-poon-daw bah-LAH ee-NEENG trehn/booss sah ____?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAgw\">When does the train/bus for _____ leave?</dt>",
+      "translation": "<dd id=\"mwAg0\">San-o malarga ining tren/bus pakadto sa ____? (<i id=\"mwAg4\">sahn-AW MAH-lahr-gah ee-NEENG trehn/booss pah-kahd-TAW sah ____?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAg8\">When will this train/bus arrive in _____?</dt>",
+      "translation": "<dd id=\"mwAhA\">San-o maabot ining tren/bus? (<i id=\"mwAhE\">sahn-AW MAH-ah-bawt ee-NEENG trehn/booss?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAhQ\">How do I get to _____<span id=\"mwAhU\" typeof=\"mw:DisplaySpace\"> </span>?</dt>",
+      "translation": "<dd id=\"mwAhY\">Paano makadto sa ____? (<i id=\"mwAhc\">pah-AH-naw mah-kahd-TAW sah ____?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAhg\">...the train station?</dt>",
+      "translation": "<dd id=\"mwAhk\">...estasyon sang tren?  (<i id=\"mwAho\">...ehss-tahss-YAWN sahng trehn?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAhs\">...the bus station?</dt>",
+      "translation": "<dd id=\"mwAhw\">...estasyon sang bus?  (<i id=\"mwAh0\">...ehss-tahss-YAWN sahng booss?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAh4\">...the airport?</dt>",
+      "translation": "<dd id=\"mwAh8\">...hulugpaan (<i id=\"mwAiA\">hoo-loog-PAH-ahn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAiE\">...downtown?</dt>",
+      "translation": "<dd id=\"mwAiI\">...banwa  (<i id=\"mwAiM\">...bahn-WAH</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAiQ\">...the _____ hotel?</dt>",
+      "translation": "<dd id=\"mwAiU\">...dalayonan  (<i id=\"mwAiY\">...dah-lah-YAW-nahn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAic\">...the American/Canadian/Australian/British consulate?</dt>",
+      "translation": "<dd id=\"mwAig\">...konsulada sang America/Canada/Australia/Britanya?  (<i id=\"mwAik\">...kawn-soo-LAH-dah sahng ah-MEH-rih-kah/KAH-nah-dah/owss-TRAHLL-yah/brih-TAHN-yah?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAio\">Where are there a lot of...</dt>",
+      "translation": "<dd id=\"mwAis\">Diin damo...  (<i id=\"mwAiw\">dee-EEN DAH-maw...</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAi0\">...hotels?</dt>",
+      "translation": "<dd id=\"mwAi4\">...mga dalayonan (<i id=\"mwAi8\">...mah-NGAH dah-lah-YAW-nahn?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAjA\">...restaurants?</dt>",
+      "translation": "<dd id=\"mwAjE\">...mga kalan-an  (<i id=\"mwAjI\">...mah-NGAH kah-lahn-AHN?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAjM\">...bars?</dt>",
+      "translation": "<dd id=\"mwAjQ\">...mga ilimnanan?  (<i id=\"mwAjU\">...mah-NGAH ih-lihm-NAH-nahn?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAjY\">...sites to see?</dt>",
+      "translation": "<dd id=\"mwAjc\">...mga lalagawan?  (<i id=\"mwAjg\">...mah-NGAH lah-lah-GAH-wahn?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAjk\">Can you show me on the map?</dt>",
+      "translation": "<dd id=\"mwAjo\">Pwede mo mapakita sa mapa? (<i id=\"mwAjs\">PWEH-deh maw mah-pah-KEE-tah sah MAH-pah?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAjw\">street</dt>",
+      "translation": "<dd id=\"mwAj0\">dalan (<i id=\"mwAj4\">DAH-lahn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAj8\">Turn left.</dt>",
+      "translation": "<dd id=\"mwAkA\">likô sa wala  (<i id=\"mwAkE\">lih-KAW' sah wah-LAH</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAkI\">Turn right.</dt>",
+      "translation": "<dd id=\"mwAkM\">likô sa tuo (<i id=\"mwAkQ\">lih-KAW' sah TOO-aw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAkU\">left</dt>",
+      "translation": "<dd id=\"mwAkY\">wala  (<i id=\"mwAkc\">wah-LAH</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAkg\">right</dt>",
+      "translation": "<dd id=\"mwAkk\">tuo  (<i id=\"mwAko\">TOO-aw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAks\">straight ahead</dt>",
+      "translation": "<dd id=\"mwAkw\">diretso sa unhan  (<i id=\"mwAk0\">dih-reht-SAW sah oon-HAHN</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAk4\">towards the _____</dt>",
+      "translation": "<dd id=\"mwAk8\">padulong sa ____  (<i id=\"mwAlA\">pah-doo-LAWNG sah ____</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAlE\">past the _____</dt>",
+      "translation": "<dd id=\"mwAlI\">unhan sang ___  (<i id=\"mwAlM\">oon-HAHN sahng ____</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAlQ\">before the _____</dt>",
+      "translation": "<dd id=\"mwAlU\">bag-o sang ____  (<i id=\"mwAlY\">BAHG-aw sahng ____</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAlc\">Watch for the _____.</dt>",
+      "translation": "<dd id=\"mwAlg\">Bantay sang ____.  (<i id=\"mwAlk\">bahn-TIGH sahng ____</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAlo\">intersection</dt>",
+      "translation": "<dd id=\"mwAls\">ginsang-an  (<i id=\"mwAlw\">gihn-sahng-AHN</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAl0\">north</dt>",
+      "translation": "<dd id=\"mwAl4\">aminhan (<i id=\"mwAl8\">ah-mihn-HAHN</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAmA\">south</dt>",
+      "translation": "<dd id=\"mwAmE\">habagatnan  (<i id=\"mwAmI\">hah-bah-gaht-NAHN</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAmM\">east</dt>",
+      "translation": "<dd id=\"mwAmQ\">sidlangan  (<i id=\"mwAmU\">sihd-LAH-ngahn</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAmY\">west</dt>",
+      "translation": "<dd id=\"mwAmc\">katulundan  (<i id=\"mwAmg\">kah-too-loon-DAHN</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAmk\">uphill</dt>",
+      "translation": "<dd id=\"mwAmo\">pataklad  (<i id=\"mwAms\">pah-tahck-LAHD</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAmw\">downhill</dt>",
+      "translation": "<dd id=\"mwAm0\">padulhog  (<i id=\"mwAm4\">pah-dooll-HAWG</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAnE\">Taxi!</dt>",
+      "translation": "<dd id=\"mwAnI\">Taksi! (<i id=\"mwAnM\">TAHCK-see</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAnQ\">Take me to ____, please.</dt>",
+      "translation": "<dd id=\"mwAnU\">Palihog, pakadto-a ako sa ____. (<i id=\"mwAnY\">pah-LEE-hawg, pah-KAHD-too-AH ah-KAW sah ___.</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAnc\">How much does it cost to get to ____?</dt>",
+      "translation": "<dd id=\"mwAng\">Pila ang bayad pakadto sa ____? (<i id=\"mwAnk\">pee-LAH ahng BAH-yahd pah-KAHD-too sah ____?</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAno\">Please, take me there.</dt>",
+      "translation": "<dd id=\"mwAns\">Palihog, pakadto-a ako didto. (<i id=\"mwAnw\">pah-LEE-hawg, pah-KAHD-too-AH ah-KAW DIHD-taw</i>)</dd>",
+      "category": "general",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#General"
+    },
+    {
+      "phrase": "<dt id=\"mwAn8\">Do you have any rooms available?</dt>",
+      "translation": "<dd id=\"mwAoA\">May mga hulot pa kamo nga bakante? (<i id=\"mwAoE\">migh mah-NGAH hoo-LAWT pah kah-MAW ngah bah-KAHN-teh?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAoI\">How much is a room for one person/two people?</dt>",
+      "translation": "<dd id=\"mwAoM\">Tag-pilá ang isá ka hulót para sa isá ka tawo/duhá ka tawo? (<i id=\"mwAoQ\">tahg-pee-LAH ahng ih-SAH kah hoo-LAWT PAH-rah sa ih-SAH kah TAH-waw/doo-HAH kah TAH-waw?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAoU\">Does the room come with...</dt>",
+      "translation": "<dd id=\"mwAoY\">Ang hulót bala may...  (<i id=\"mwAoc\">ahng hoo-LAWT bah-LAH migh...</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAog\">...bedsheets?</dt>",
+      "translation": "<dd id=\"mwAok\">...hapín sa mga katre? (<i id=\"mwAoo\">...hah-PEEN sah mah-NGAH kaht-REH?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAos\">...a bathroom?</dt>",
+      "translation": "<dd id=\"mwAow\">...palaligòan?  (<i id=\"mwAo0\">...pah-lah-lee-GAW-ahn?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAo4\">...a telephone?</dt>",
+      "translation": "<dd id=\"mwAo8\">...telepono? (<i id=\"mwApA\">...teh-LEH-poo-naw?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwApE\">...a TV?</dt>",
+      "translation": "<dd id=\"mwApI\">...telebisyon?  (<i id=\"mwApM\">...teh-leh-bihss-YAWN?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwApQ\">May I see the room first?</dt>",
+      "translation": "<dd id=\"mwApU\">Mahimò balá nakon makità ang hulót anay? (<i id=\"mwApY\">mah-HEE-maw' bah-LAH NAH-kawn mah-KEE-tah' ahng hoo-LAWT AH-nigh?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwApc\">Do you have anything quieter?</dt>",
+      "translation": "<dd id=\"mwApg\">May yarà kamó bisan anó nga labíng silensyo? (<i id=\"mwApk\">migh YAH-rah' kah-MAW BEE-sahn ah-NAW ngah lah-BEENG sih-LEHN-shaw?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwApo\">...bigger?</dt>",
+      "translation": "<dd id=\"mwAps\">...labing dakó (<i id=\"mwApw\">...lah-BEENG dah-KAW</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAp0\">...cleaner?</dt>",
+      "translation": "<dd id=\"mwAp4\">...labing tinlò  (<i id=\"mwAp8\">...lah-BEENG TIHN-law' </i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAqA\">...cheaper?</dt>",
+      "translation": "<dd id=\"mwAqE\">...labing barato  (<i id=\"mwAqI\">...lah-BEENG bah-RAH-taw</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAqM\">OK, I'll take it.</dt>",
+      "translation": "<dd id=\"mwAqQ\">Sige, kuhàon nakon ini. (<i id=\"mwAqU\">SEE-geh, koo-HAH-awn NAH-kawn ee-NEE</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAqY\">I will stay for _____ night(s).</dt>",
+      "translation": "<dd id=\"mwAqc\">Mapabílin akó dirí sa _____ ka gab-i. (<i id=\"mwAqg\">mah-pah-BEE-lihn ah-KAW dih-REE sah ____ kah gahb-EE</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAqk\">Can you suggest another hotel?</dt>",
+      "translation": "<dd id=\"mwAqo\">Maka-suhestyon pa ikaw sing isa pa ka baláy-dalayonan? (<i id=\"mwAqs\">mah-kah-soo-hehss-CHAWN pah kah bah-LIGH-dah-lah-YAW-nahn?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAqw\">Do you have a safe?</dt>",
+      "translation": "<dd id=\"mwAq0\">May yarà kamó sing kahadero? (<i id=\"mwAq4\">migh YAH-rah' kah-MAW sihng kah-hah-DEH-raw?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAq8\">...lockers?</dt>",
+      "translation": "<dd id=\"mwArA\">...mga seradora? (<i id=\"mwArE\">...mah-NGAH seh-rah-DAW-rah?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwArI\">Is breakfast/supper included?</dt>",
+      "translation": "<dd id=\"mwArM\">Ang pamahaw/paniapon balá nadalá? (<i id=\"mwArQ\">ahng pah-MAH-how/pah-nee-AH-pawn bah-LAH nah-dah-LAH?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwArU\">What time is breakfast/supper?</dt>",
+      "translation": "<dd id=\"mwArY\">Anó nga taknà ang pamahaw/paniapon? (<i id=\"mwArc\">ah-NAW ngah TAHCK-nah' ahng pah-MAH-how/pah-nee-AH-pawn?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwArg\">Please clean my room.</dt>",
+      "translation": "<dd id=\"mwArk\">Palihog tinlòi ang akon nga hulót? (<i id=\"mwAro\">pah-LEE-hawg tihn-LAW-ee ahng AH-kawn ngah hoo-LAWT?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwArs\">Can you wake me at _____?</dt>",
+      "translation": "<dd id=\"mwArw\">Mapukaw balá nimo akó sa _____? (<i id=\"mwAr0\">mah-POO-kow bah-LAH NEE-maw ah-KAW sah ____?</i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAr4\">I want to check out.</dt>",
+      "translation": "<dd id=\"mwAr8\">Luyag na nakon magguwà. (<i id=\"mwAsA\">LOO-yahg nah NAH-kawn mahg-GOO-wah' </i>)</dd>",
+      "category": "lodging",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Lodging"
+    },
+    {
+      "phrase": "<dt id=\"mwAsM\">Do you accept American/Australian/Canadian dollars?</dt>",
+      "translation": "<dd id=\"mwAsQ\">Nagabaton bala kamo sing Amerikano/Australiano/Kanadiano nga dolyar? (<i id=\"mwAsU\">nah-gah-BAH-tawn bah-LAH kah-MAW sihng ah-meh-ree-KAH-naw/awss-trahll-YAH-naw/kah-nahd-YAH-naw ngah dooll-YAHR?</i>)</dd>",
+      "category": "money",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Money"
+    },
+    {
+      "phrase": "<dt id=\"mwAsY\">Do you accept credit cards?</dt>",
+      "translation": "<dd id=\"mwAsc\">Nagabaton bala kamo sing credit cards? (<i id=\"mwAsg\">nah-gah-BAH-tawn bah-LAH kah-MAW sihng KREH-diht kahrdss?</i>)</dd>",
+      "category": "money",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Money"
+    },
+    {
+      "phrase": "<dt id=\"mwAsk\">Can you change money for me?</dt>",
+      "translation": "<dd id=\"mwAso\">Pwede ka bala magpabaylo sing kwarta sa akon? (<i id=\"mwAss\">PWEH-deh kah bah-LAH mahg-pah-BIGH-law sihng KWAHR-tah sah AH-kawn?</i>)</dd>",
+      "category": "money",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Money"
+    },
+    {
+      "phrase": "<dt id=\"mwAsw\">What is the exchange rate?</dt>",
+      "translation": "<dd id=\"mwAs0\">Tagpila ang kantidad sang pagpabaylo subong? (<i id=\"mwAs4\">tahg-pee-LAH ahng kahn-tee-DAHD sahng pahg-pah-BIGH-law soo-BAWNG?</i>)</dd>",
+      "category": "money",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Money"
+    },
+    {
+      "phrase": "<dt id=\"mwAs8\">Where is an automatic teller machine? (ATM)</dt>",
+      "translation": "<dd id=\"mwAtA\">Diin ang ATM? (<i id=\"mwAtE\">dee-EEN ahng ay-TEE-ehm?</i>)</dd>",
+      "category": "money",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Money"
+    },
+    {
+      "phrase": "<dt id=\"mwAtQ\">A table for one person/two people, please.</dt>",
+      "translation": "<dd id=\"mwAtU\">Isa ka lamesa para sa isa/duha ka tawo, palihog. (<i id=\"mwAtY\">ee-SAH kah lah-MEH-sah PAH-rah sah ee-SAH/doo-HAH kah TAW-waw, pah-LEE-hawg</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAtc\">Can I look at the menu, please?</dt>",
+      "translation": "<dd id=\"mwAtg\">Mahimò matan-aw ang menu, palihog? (<i id=\"mwAtk\">mah-HEE-maw' mah-TAHN-ow ahng mehn-YOO, pah-LEE-hawg</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAto\">Can I look in the kitchen?</dt>",
+      "translation": "<dd id=\"mwAts\">Mahimo bala nakon lantawon ang kusina? (<i id=\"mwAtw\">mah-HEE-maw' bah-LAH NAH-kawn lahn-tah-WAWN ahng koo-SEE-nah?</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAt0\">I'm a vegetarian.</dt>",
+      "translation": "<dd id=\"mwAt4\">Vegetarian ako.  (<i id=\"mwAt8\">beh-jeh-TAHR-yahn ah-KAW</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAuA\">I don't eat pork.</dt>",
+      "translation": "<dd id=\"mwAuE\">Waay ako nagakaon sing karne sang baboy.  (<i id=\"mwAuI\">wah-IGH ah-KAW nah-gah-KAH-awn sihng kahr-NEH sahng BAH-bawy</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAuM\">I don't eat beef.</dt>",
+      "translation": "<dd id=\"mwAuQ\">Waay ako nagakaon sing karne sang baka.  (<i id=\"mwAuU\">wah-IGH ah-KAW nah-gah-KAH-awn sihng kahr-NEH sahng BAH-kah</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAuY\">breakfast.</dt>",
+      "translation": "<dd id=\"mwAuc\">pamahaw (<i id=\"mwAug\">pah-MAH-how</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAuk\">lunch.</dt>",
+      "translation": "<dd id=\"mwAuo\">panyaga (<i id=\"mwAus\">pah-NYAH-gah</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAuw\">Snack time (Tea).</dt>",
+      "translation": "<dd id=\"mwAu0\">merienda (<i id=\"mwAu4\">mehr-YEHN-dah</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAu8\">dinner.</dt>",
+      "translation": "<dd id=\"mwAvA\">panyapon (<i id=\"mwAvE\">pahn-YAH-pawn</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAvI\">chicken.</dt>",
+      "translation": "<dd id=\"mwAvM\">karne sang manok (<i id=\"mwAvQ\">kahr-NEH sahng mah-NAWCK</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAvU\">beef.</dt>",
+      "translation": "<dd id=\"mwAvY\">karne sang baka (<i id=\"mwAvc\">kahr-NEH sahng BAH-kah</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAvg\">pork.</dt>",
+      "translation": "<dd id=\"mwAvk\">karne sang baboy (<i id=\"mwAvo\">kahr-NEH sahng BAH-bawy</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAvs\">fish.</dt>",
+      "translation": "<dd id=\"mwAvw\">isda (<i id=\"mwAv0\">eess-DAH' </i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAv4\">eggs.</dt>",
+      "translation": "<dd id=\"mwAv8\">itlog (<i id=\"mwAwA\">eet-LAWG</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAwE\">vegetables.</dt>",
+      "translation": "<dd id=\"mwAwI\">utan (<i id=\"mwAwM\">oo-TAHN</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAwQ\">fruit.</dt>",
+      "translation": "<dd id=\"mwAwU\">prutas (<i id=\"mwAwY\">PROO-tahss</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAwc\">bread.</dt>",
+      "translation": "<dd id=\"mwAwg\">tinapay (<i id=\"mwAwk\">tee-NAH-pigh</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAwo\">coffee.</dt>",
+      "translation": "<dd id=\"mwAws\">kape (<i id=\"mwAww\">kah-PEH</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAw0\">tea.</dt>",
+      "translation": "<dd id=\"mwAw4\">tsaa (<i id=\"mwAw8\">chah-AH</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAxA\">juice.</dt>",
+      "translation": "<dd id=\"mwAxE\">jus (<i id=\"mwAxI\">JOOSS</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAxM\">water.</dt>",
+      "translation": "<dd id=\"mwAxQ\">tubig (<i id=\"mwAxU\">TOO-bihg</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAxY\">salt.</dt>",
+      "translation": "<dd id=\"mwAxc\">asin (<i id=\"mwAxg\">ah-SEEN</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAxk\">I'm finished.</dt>",
+      "translation": "<dd id=\"mwAxo\">Tapos na ako (<i id=\"mwAxs\">tah-PAWSS nah ah-KAW</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAxw\">It was delicious.</dt>",
+      "translation": "<dd id=\"mwAx0\">Kanamit. (<i id=\"mwAx4\">kah-NAH-miht</i>)</dd>",
+      "category": "eating",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Eating"
+    },
+    {
+      "phrase": "<dt id=\"mwAyE\">Do you serve alcohol?</dt>",
+      "translation": "<dd id=\"mwAyI\">May ara kamo serbisa? (<i id=\"mwAyM\">migh AH-rah kah-MAW sehr-BEE-sah?</i>)</dd>",
+      "category": "bars",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Bars"
+    },
+    {
+      "phrase": "<dt id=\"mwAyQ\">A beer/two beers, please.</dt>",
+      "translation": "<dd id=\"mwAyU\">Isa/Duha ka beer, palihog. (<i id=\"mwAyY\">ee-SAH/doo-HAH kah beer, pah-LEE-hawg</i>)</dd>",
+      "category": "bars",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Bars"
+    },
+    {
+      "phrase": "<dt id=\"mwAyc\">whiskey</dt>",
+      "translation": "<dd id=\"mwAyg\">wiski (WEESS-kee)</dd>",
+      "category": "bars",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Bars"
+    },
+    {
+      "phrase": "<dt id=\"mwAyk\">vodka</dt>",
+      "translation": "<dd id=\"mwAyo\">bodka (BAWD-kah)</dd>",
+      "category": "bars",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Bars"
+    },
+    {
+      "phrase": "<dt id=\"mwAys\">rum</dt>",
+      "translation": "<dd id=\"mwAyw\">ram (RAHM)</dd>",
+      "category": "bars",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Bars"
+    },
+    {
+      "phrase": "<dt id=\"mwAy0\">water</dt>",
+      "translation": "<dd id=\"mwAy4\">tubig (TOO-bihg)</dd>",
+      "category": "bars",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Bars"
+    },
+    {
+      "phrase": "<dt id=\"mwAy8\">One more, please.</dt>",
+      "translation": "<dd id=\"mwAzA\">Isa pa, palihog. (<i id=\"mwAzE\">ee-SAH pah, pah-LEE-hawg</i>)</dd>",
+      "category": "bars",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Bars"
+    },
+    {
+      "phrase": "<dt id=\"mwAzI\">What time do you close?</dt>",
+      "translation": "<dd id=\"mwAzM\">Ano nga oras kamo nagsasarado? (<i id=\"mwAzQ\">ah-NAW ngah AW-rahss kah-MAW nahg-sah-sah-RAH-daw?</i>)</dd>",
+      "category": "bars",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Bars"
+    },
+    {
+      "phrase": "<dt id=\"mwAzc\">Do you have this in my size?</dt>",
+      "translation": "<dd id=\"mwAzg\">May-ara kamo sang akon nga size? (<i id=\"mwAzk\">migh-AH-rah kah-MAW sahng AH-kawn ngah sighz?</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwAzo\">How much is this?</dt>",
+      "translation": "<dd id=\"mwAzs\">Pila ini? (<i id=\"mwAzw\">pee-LAH ee-NEE?</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwAz0\">That's too expensive.</dt>",
+      "translation": "<dd id=\"mwAz4\">Tam-an na ka ma-hal. (<i id=\"mwAz8\">tahm-AHN nah kah mah-HAHLL</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA0A\">expensive.</dt>",
+      "translation": "<dd id=\"mwA0E\">mahal. (<i id=\"mwA0I\">mah-HAHLL</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA0M\">cheap.</dt>",
+      "translation": "<dd id=\"mwA0Q\">barato. (<i id=\"mwA0U\">bah-RAH-taw</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA0Y\">I can't afford it.</dt>",
+      "translation": "<dd id=\"mwA0c\">Indi ko maka-bakal sang ina. (<i id=\"mwA0g\">ihn-DEE kaw mah-kah-bah-KAHLL sahng ee-NAH</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA0k\">I don't want it.</dt>",
+      "translation": "<dd id=\"mwA0o\">Indi ko na gusto. (<i id=\"mwA0s\">ihn-DEE kaw nah gooss-TAW</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA0w\">You're cheating me.</dt>",
+      "translation": "<dd id=\"mwA00\">Gina-into mo ako. (<i id=\"mwA04\">gee-nah-ihn-TAW maw ah-KAW</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA08\">OK, I'll take it.</dt>",
+      "translation": "<dd id=\"mwA1A\">Sige, kuwahon ko. (<i id=\"mwA1E\">SEE-geh, koo-wah-HAWN kaw</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA1I\">Do you ship overseas?</dt>",
+      "translation": "<dd id=\"mwA1M\">Nagpapadala kamo sa luwas sang pungsod? (<i id=\"mwA1Q\">nahg-pah-pah-dah-LAH kah-MAW sah loo-WAHSS sahng poong-SAWD?</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA1U\">I need ...</dt>",
+      "translation": "<dd id=\"mwA1Y\">Kailangan ko sang ... (<i id=\"mwA1c\">kigh-LAH-ngahn kaw sahng ...</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA1g\">...toothpaste.</dt>",
+      "translation": "<dd id=\"mwA1k\">...toothpaste (<i id=\"mwA1o\">tooth-PAYST</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA1s\">...a toothbrush.</dt>",
+      "translation": "<dd id=\"mwA1w\">...toothbrush (<i id=\"mwA10\">TOOTH-brahssh</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA14\">...tampons.</dt>",
+      "translation": "<dd id=\"mwA18\">...tampons (<i id=\"mwA2A\">TAHM-pawnss</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA2E\">...soap.</dt>",
+      "translation": "<dd id=\"mwA2I\">...sabon  (<i id=\"mwA2M\">sah-BAWN</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA2Q\">...shampoo.</dt>",
+      "translation": "<dd id=\"mwA2U\">...shampoo  (<i id=\"mwA2Y\">shahm-POO</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA2c\">...pain reliever. (<i id=\"mwA2g\">e.g., aspirin or ibuprofen</i>)</dt>",
+      "translation": "<dd id=\"mwA2k\">...bulong sa sakit  (<i id=\"mwA2o\">boo-LAWNG sah sah-KEET</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA2s\">...cold medicine.</dt>",
+      "translation": "<dd id=\"mwA2w\">...bulong sa ubo  (<i id=\"mwA20\">boo-LAWNG sah oo-BAW</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA24\">...stomach medicine.</dt>",
+      "translation": "<dd id=\"mwA28\">...bulong sa sakit sang tiyan (<i id=\"mwA3A\">boo-LAWNG sah sah-KEET sahng chahn</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA3E\">...a razor.</dt>",
+      "translation": "<dd id=\"mwA3I\">...pang-ahit  (<i id=\"mwA3M\">pahng-AH-hiht</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA3Q\">...an umbrella.</dt>",
+      "translation": "<dd id=\"mwA3U\">...payong (<i id=\"mwA3Y\">PAH-yawng</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA3c\">...sunblock lotion.</dt>",
+      "translation": "<dd id=\"mwA3g\">...sunblock lotion  (<i id=\"mwA3k\">SAHN-blahck LOH-shuhn</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA3o\">...a postcard.</dt>",
+      "translation": "<dd id=\"mwA3s\">...postcard  (<i id=\"mwA3w\"> POHST-kahrd</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA30\">...postage stamps.</dt>",
+      "translation": "<dd id=\"mwA34\">...postage stamps  (<i id=\"mwA38\">PAWS-tihj stahmpss</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA4A\">...batteries.</dt>",
+      "translation": "<dd id=\"mwA4E\">...batirya  (<i id=\"mwA4I\">bah-TIHR-yah</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA4M\">...writing paper.</dt>",
+      "translation": "<dd id=\"mwA4Q\">...papel  (<i id=\"mwA4U\">pah-PEHLL</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA4Y\">...a pen.</dt>",
+      "translation": "<dd id=\"mwA4c\">...ballpen  (<i id=\"mwA4g\">BAWLL-pehn</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA4k\">...English-language books.</dt>",
+      "translation": "<dd id=\"mwA4o\">...libro nga sa Ingles nga lengwahe.  (<i id=\"mwA4s\">lihb-RAW ngah sah eeng-LEHSS ngah lehng-GWAH-heh</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA4w\">...English-language magazines.</dt>",
+      "translation": "<dd id=\"mwA40\">...magasin nga sa Ingles nga lengwahe.  (<i id=\"mwA44\">MAH-gah-sihn ngah sah eeng-LEHSS ngah lehng-GWAH-heh</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA48\">...an English-language newspaper.</dt>",
+      "translation": "<dd id=\"mwA5A\">...diaryo nga nasa Ingles nga lengwahe.  (<i id=\"mwA5E\">JAHR-yaw ngah sah eeng-LEHSS ngah lehng-GWAH-heh</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA5I\">...an English-Hiligaynon dictionary.</dt>",
+      "translation": "<dd id=\"mwA5M\">...diksionaryo nga sa Ingles-Hiligaynon nga lengwahe.  (<i id=\"mwA5Q\">dihck-shoo-NAHR-yaw ngah NAH-sah eeng-LEHSS-hee-lee-gigh-NAWan ngah lehng-GWAH-heh</i>)</dd>",
+      "category": "shopping",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Shopping"
+    },
+    {
+      "phrase": "<dt id=\"mwA5c\">I want to rent a car.</dt>",
+      "translation": "<dd id=\"mwA5g\">Luyag nakon mag-arkila sing awto. (<i id=\"mwA5k\">loo-YAHG NAH-kawn MAHG-ahr-kih-lah sihng OW-taw</i>)</dd>",
+      "category": "driving",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Driving"
+    },
+    {
+      "phrase": "<dt id=\"mwA5o\">Can I get insurance?</dt>",
+      "translation": "<dd id=\"mwA5s\">Mahimo ako makakuha sing insurance? (<i id=\"mwA5w\">mah-HEE-maw' ah-KAW mah-kah-KOO-hah sihng ihn-SHOO-rahnss?</i>)</dd>",
+      "category": "driving",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Driving"
+    },
+    {
+      "phrase": "<dt id=\"mwA50\">gas (<i id=\"mwA54\">petrol</i>) station</dt>",
+      "translation": "<dd id=\"mwA58\">gasolinahan  (<i id=\"mwA6A\">gah-saw-lee-nah-HAHN</i>)</dd>",
+      "category": "driving",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Driving"
+    },
+    {
+      "phrase": "<dt id=\"mwA6E\">petrol</dt>",
+      "translation": "<dd id=\"mwA6I\">gasolina (<i id=\"mwA6M\">gah-saw-LEE-nah</i>)</dd>",
+      "category": "driving",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Driving"
+    },
+    {
+      "phrase": "<dt id=\"mwA6Q\">diesel</dt>",
+      "translation": "<dd id=\"mwA6U\">krudo  (<i id=\"mwA6Y\">KROO-daw</i>)</dd>",
+      "category": "driving",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Driving"
+    },
+    {
+      "phrase": "<dt id=\"mwA6k\">I haven't done anything wrong.</dt>",
+      "translation": "<dd id=\"mwA6o\">Waay ko ya sala. (<i id=\"mwA6s\">wah-IGH kaw yah SAH-lah</i>)</dd>",
+      "category": "authority",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Authority"
+    },
+    {
+      "phrase": "<dt id=\"mwA6w\">It was a misunderstanding.</dt>",
+      "translation": "<dd id=\"mwA60\">Indi paghinangpanay yadto. (<i id=\"mwA64\">EEN-dee' pahg-hee-NAHNG-pah-NIGH yahd-TAW</i>)</dd>",
+      "category": "authority",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Authority"
+    },
+    {
+      "phrase": "<dt id=\"mwA68\">Where are you taking me?</dt>",
+      "translation": "<dd id=\"mwA7A\">Diín nimo ako pagadal-on? (<i id=\"mwA7E\">dee-EEN NEE-maw ah-KAW pah-gah-DAHLL-awn?</i>)</dd>",
+      "category": "authority",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Authority"
+    },
+    {
+      "phrase": "<dt id=\"mwA7I\">Am I under arrest?</dt>",
+      "translation": "<dd id=\"mwA7M\">Ginadakop bala ninyo ako? (<i id=\"mwA7Q\">gee-nah-dah-KAWP bah-LAH nihn-YAW ah-KAW?</i>)</dd>",
+      "category": "authority",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Authority"
+    },
+    {
+      "phrase": "<dt id=\"mwA7U\">I am an American/Australian/British/Canadian citizen.</dt>",
+      "translation": "<dd id=\"mwA7Y\">Isa ako ka pumuluyo nga Amerikanhon/Australianhon/Britanianon/Canadianon. (<i id=\"mwA7c\">ee-SAH ah-KAW kah poo-moo-LOO-yaw ngah ah-MEH-ree-kahn-hawn/owss-TRAYLL-yahn-hawn/bree-TAHN-yah-nawn/KAH-nah-dah-yah-nawn</i>)</dd>",
+      "category": "authority",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Authority"
+    },
+    {
+      "phrase": "<dt id=\"mwA7g\">I want to talk to the American/Australian/British/Canadian embassy/consulate.</dt>",
+      "translation": "<dd id=\"mwA7k\">Gusto ko mag-estorya sa embahada sang Amerika/Australia/Britania/Canada.(<i id=\"mwA7o\">gooss-TAW kaw mahg-ehss-TAWR-yah sah ehm-bah-HAH-dah sahng ah-MEH-ree-kah/owss-TRAHLL-yah/bree-TAHN-yah/KAH-nah-dah</i>)</dd>",
+      "category": "authority",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Authority"
+    },
+    {
+      "phrase": "<dt id=\"mwA7s\">I want to talk to my lawyer.</dt>",
+      "translation": "<dd id=\"mwA7w\">Luyag nakon sugilanonon ang akon nga abogado. (<i id=\"mwA70\">loo-YAHG NAH-kawn soo-gee-lah-NAW-nawn ahng AH-kawn ngah ah-boo-GAH-daw</i>)</dd>",
+      "category": "authority",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Authority"
+    },
+    {
+      "phrase": "<dt id=\"mwA74\">Can I just pay a fine now?</dt>",
+      "translation": "<dd id=\"mwA78\">Pwede na bala ako magbayad sibh multa subong?  (<i id=\"mwA8A\">PWEH-deh nah bah-LAH ah-KAW mahg-BAH-yahd sihng mooll-TAH soo-BAWNG?</i>)</dd>",
+      "category": "authority",
+      "source": "https://en.wikivoyage.org/wiki/Hiligaynon_phrasebook#Authority"
+    }
+  ]
+}
